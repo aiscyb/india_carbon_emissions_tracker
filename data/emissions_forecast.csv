@@ -1,0 +1,466 @@
+state,year,co2_mt,is_forecast
+Maharashtra,2005,144.06,False
+Maharashtra,2006,151.5,False
+Maharashtra,2007,162.94,False
+Maharashtra,2008,182.08,False
+Maharashtra,2009,193.42,False
+Maharashtra,2010,201.59,False
+Maharashtra,2011,218.48,False
+Maharashtra,2012,228.98,False
+Maharashtra,2013,240.74,False
+Maharashtra,2014,261.95,False
+Maharashtra,2015,272.65,False
+Maharashtra,2016,282.78,False
+Maharashtra,2017,297.06,False
+Maharashtra,2018,310.01,False
+Maharashtra,2019,314.63,False
+Maharashtra,2020,295.95,False
+Maharashtra,2021,315.5,False
+Maharashtra,2022,337.58,False
+Maharashtra,2023,364.95,False
+Maharashtra,2024,367.95,True
+Maharashtra,2025,379.61,True
+Maharashtra,2026,391.26,True
+Maharashtra,2027,402.91,True
+Maharashtra,2028,414.57,True
+Maharashtra,2029,426.22,True
+Maharashtra,2030,437.88,True
+Maharashtra,2031,449.53,True
+Maharashtra,2032,461.18,True
+Maharashtra,2033,472.84,True
+Maharashtra,2034,484.49,True
+Maharashtra,2035,496.15,True
+Uttar Pradesh,2005,131.06,False
+Uttar Pradesh,2006,147.08,False
+Uttar Pradesh,2007,156.43,False
+Uttar Pradesh,2008,167.24,False
+Uttar Pradesh,2009,180.86,False
+Uttar Pradesh,2010,188.1,False
+Uttar Pradesh,2011,196.07,False
+Uttar Pradesh,2012,211.5,False
+Uttar Pradesh,2013,216.55,False
+Uttar Pradesh,2014,235.63,False
+Uttar Pradesh,2015,244.56,False
+Uttar Pradesh,2016,262.29,False
+Uttar Pradesh,2017,258.83,False
+Uttar Pradesh,2018,285.77,False
+Uttar Pradesh,2019,282.85,False
+Uttar Pradesh,2020,265.9,False
+Uttar Pradesh,2021,293.52,False
+Uttar Pradesh,2022,308.72,False
+Uttar Pradesh,2023,332.57,False
+Uttar Pradesh,2024,332.87,True
+Uttar Pradesh,2025,343.18,True
+Uttar Pradesh,2026,353.49,True
+Uttar Pradesh,2027,363.8,True
+Uttar Pradesh,2028,374.11,True
+Uttar Pradesh,2029,384.42,True
+Uttar Pradesh,2030,394.73,True
+Uttar Pradesh,2031,405.04,True
+Uttar Pradesh,2032,415.35,True
+Uttar Pradesh,2033,425.66,True
+Uttar Pradesh,2034,435.97,True
+Uttar Pradesh,2035,446.28,True
+Gujarat,2005,119.89,False
+Gujarat,2006,131.05,False
+Gujarat,2007,140.05,False
+Gujarat,2008,153.52,False
+Gujarat,2009,161.13,False
+Gujarat,2010,166.8,False
+Gujarat,2011,177.66,False
+Gujarat,2012,192.41,False
+Gujarat,2013,194.8,False
+Gujarat,2014,211.28,False
+Gujarat,2015,224.64,False
+Gujarat,2016,229.66,False
+Gujarat,2017,248.72,False
+Gujarat,2018,257.68,False
+Gujarat,2019,266.68,False
+Gujarat,2020,241.98,False
+Gujarat,2021,270.51,False
+Gujarat,2022,281.92,False
+Gujarat,2023,307.73,False
+Gujarat,2024,306.75,True
+Gujarat,2025,316.49,True
+Gujarat,2026,326.22,True
+Gujarat,2027,335.96,True
+Gujarat,2028,345.7,True
+Gujarat,2029,355.43,True
+Gujarat,2030,365.17,True
+Gujarat,2031,374.91,True
+Gujarat,2032,384.65,True
+Gujarat,2033,394.38,True
+Gujarat,2034,404.12,True
+Gujarat,2035,413.86,True
+Rajasthan,2005,85.39,False
+Rajasthan,2006,91.79,False
+Rajasthan,2007,99.47,False
+Rajasthan,2008,102.25,False
+Rajasthan,2009,110.34,False
+Rajasthan,2010,115.28,False
+Rajasthan,2011,124.21,False
+Rajasthan,2012,134.73,False
+Rajasthan,2013,139.43,False
+Rajasthan,2014,149.7,False
+Rajasthan,2015,155.13,False
+Rajasthan,2016,161.35,False
+Rajasthan,2017,168.04,False
+Rajasthan,2018,182.66,False
+Rajasthan,2019,181.32,False
+Rajasthan,2020,169.34,False
+Rajasthan,2021,186.1,False
+Rajasthan,2022,200.3,False
+Rajasthan,2023,210.1,False
+Rajasthan,2024,212.72,True
+Rajasthan,2025,219.43,True
+Rajasthan,2026,226.14,True
+Rajasthan,2027,232.85,True
+Rajasthan,2028,239.56,True
+Rajasthan,2029,246.27,True
+Rajasthan,2030,252.98,True
+Rajasthan,2031,259.69,True
+Rajasthan,2032,266.39,True
+Rajasthan,2033,273.1,True
+Rajasthan,2034,279.81,True
+Rajasthan,2035,286.52,True
+Madhya Pradesh,2005,82.43,False
+Madhya Pradesh,2006,89.86,False
+Madhya Pradesh,2007,98.9,False
+Madhya Pradesh,2008,105.49,False
+Madhya Pradesh,2009,112.85,False
+Madhya Pradesh,2010,114.84,False
+Madhya Pradesh,2011,122.3,False
+Madhya Pradesh,2012,135.48,False
+Madhya Pradesh,2013,141.06,False
+Madhya Pradesh,2014,150.85,False
+Madhya Pradesh,2015,154.64,False
+Madhya Pradesh,2016,163.33,False
+Madhya Pradesh,2017,170.19,False
+Madhya Pradesh,2018,183.0,False
+Madhya Pradesh,2019,178.06,False
+Madhya Pradesh,2020,172.89,False
+Madhya Pradesh,2021,183.56,False
+Madhya Pradesh,2022,201.31,False
+Madhya Pradesh,2023,210.58,False
+Madhya Pradesh,2024,213.48,True
+Madhya Pradesh,2025,220.24,True
+Madhya Pradesh,2026,227.0,True
+Madhya Pradesh,2027,233.76,True
+Madhya Pradesh,2028,240.52,True
+Madhya Pradesh,2029,247.29,True
+Madhya Pradesh,2030,254.05,True
+Madhya Pradesh,2031,260.81,True
+Madhya Pradesh,2032,267.57,True
+Madhya Pradesh,2033,274.33,True
+Madhya Pradesh,2034,281.09,True
+Madhya Pradesh,2035,287.85,True
+Tamil Nadu,2005,94.24,False
+Tamil Nadu,2006,105.04,False
+Tamil Nadu,2007,108.37,False
+Tamil Nadu,2008,118.52,False
+Tamil Nadu,2009,125.1,False
+Tamil Nadu,2010,138.0,False
+Tamil Nadu,2011,142.88,False
+Tamil Nadu,2012,155.32,False
+Tamil Nadu,2013,162.75,False
+Tamil Nadu,2014,173.27,False
+Tamil Nadu,2015,172.27,False
+Tamil Nadu,2016,182.29,False
+Tamil Nadu,2017,190.0,False
+Tamil Nadu,2018,204.04,False
+Tamil Nadu,2019,209.98,False
+Tamil Nadu,2020,192.09,False
+Tamil Nadu,2021,212.81,False
+Tamil Nadu,2022,228.79,False
+Tamil Nadu,2023,247.14,False
+Tamil Nadu,2024,244.22,True
+Tamil Nadu,2025,252.0,True
+Tamil Nadu,2026,259.77,True
+Tamil Nadu,2027,267.55,True
+Tamil Nadu,2028,275.32,True
+Tamil Nadu,2029,283.1,True
+Tamil Nadu,2030,290.87,True
+Tamil Nadu,2031,298.65,True
+Tamil Nadu,2032,306.43,True
+Tamil Nadu,2033,314.2,True
+Tamil Nadu,2034,321.98,True
+Tamil Nadu,2035,329.75,True
+West Bengal,2005,84.66,False
+West Bengal,2006,91.24,False
+West Bengal,2007,98.61,False
+West Bengal,2008,103.92,False
+West Bengal,2009,116.2,False
+West Bengal,2010,116.35,False
+West Bengal,2011,122.85,False
+West Bengal,2012,136.79,False
+West Bengal,2013,137.59,False
+West Bengal,2014,151.74,False
+West Bengal,2015,157.76,False
+West Bengal,2016,168.02,False
+West Bengal,2017,170.1,False
+West Bengal,2018,183.78,False
+West Bengal,2019,184.43,False
+West Bengal,2020,174.69,False
+West Bengal,2021,187.45,False
+West Bengal,2022,197.74,False
+West Bengal,2023,213.29,False
+West Bengal,2024,215.49,True
+West Bengal,2025,222.32,True
+West Bengal,2026,229.15,True
+West Bengal,2027,235.97,True
+West Bengal,2028,242.8,True
+West Bengal,2029,249.63,True
+West Bengal,2030,256.45,True
+West Bengal,2031,263.28,True
+West Bengal,2032,270.11,True
+West Bengal,2033,276.94,True
+West Bengal,2034,283.76,True
+West Bengal,2035,290.59,True
+Karnataka,2005,73.26,False
+Karnataka,2006,79.33,False
+Karnataka,2007,84.37,False
+Karnataka,2008,89.32,False
+Karnataka,2009,95.86,False
+Karnataka,2010,101.99,False
+Karnataka,2011,103.64,False
+Karnataka,2012,117.42,False
+Karnataka,2013,121.09,False
+Karnataka,2014,126.72,False
+Karnataka,2015,137.74,False
+Karnataka,2016,137.54,False
+Karnataka,2017,144.35,False
+Karnataka,2018,157.91,False
+Karnataka,2019,155.39,False
+Karnataka,2020,146.46,False
+Karnataka,2021,159.86,False
+Karnataka,2022,167.25,False
+Karnataka,2023,181.17,False
+Karnataka,2024,182.25,True
+Karnataka,2025,187.94,True
+Karnataka,2026,193.64,True
+Karnataka,2027,199.33,True
+Karnataka,2028,205.03,True
+Karnataka,2029,210.72,True
+Karnataka,2030,216.42,True
+Karnataka,2031,222.11,True
+Karnataka,2032,227.81,True
+Karnataka,2033,233.5,True
+Karnataka,2034,239.2,True
+Karnataka,2035,244.89,True
+Andhra Pradesh,2005,72.53,False
+Andhra Pradesh,2006,77.94,False
+Andhra Pradesh,2007,85.24,False
+Andhra Pradesh,2008,89.54,False
+Andhra Pradesh,2009,94.89,False
+Andhra Pradesh,2010,101.97,False
+Andhra Pradesh,2011,107.75,False
+Andhra Pradesh,2012,112.76,False
+Andhra Pradesh,2013,115.91,False
+Andhra Pradesh,2014,130.97,False
+Andhra Pradesh,2015,133.85,False
+Andhra Pradesh,2016,142.65,False
+Andhra Pradesh,2017,143.28,False
+Andhra Pradesh,2018,157.11,False
+Andhra Pradesh,2019,152.05,False
+Andhra Pradesh,2020,141.21,False
+Andhra Pradesh,2021,160.47,False
+Andhra Pradesh,2022,166.98,False
+Andhra Pradesh,2023,183.14,False
+Andhra Pradesh,2024,181.51,True
+Andhra Pradesh,2025,187.18,True
+Andhra Pradesh,2026,192.86,True
+Andhra Pradesh,2027,198.53,True
+Andhra Pradesh,2028,204.21,True
+Andhra Pradesh,2029,209.88,True
+Andhra Pradesh,2030,215.56,True
+Andhra Pradesh,2031,221.24,True
+Andhra Pradesh,2032,226.91,True
+Andhra Pradesh,2033,232.59,True
+Andhra Pradesh,2034,238.26,True
+Andhra Pradesh,2035,243.94,True
+Odisha,2005,59.7,False
+Odisha,2006,64.77,False
+Odisha,2007,70.18,False
+Odisha,2008,75.52,False
+Odisha,2009,79.27,False
+Odisha,2010,84.45,False
+Odisha,2011,89.61,False
+Odisha,2012,96.58,False
+Odisha,2013,98.55,False
+Odisha,2014,106.09,False
+Odisha,2015,115.38,False
+Odisha,2016,118.16,False
+Odisha,2017,123.83,False
+Odisha,2018,129.37,False
+Odisha,2019,131.09,False
+Odisha,2020,122.84,False
+Odisha,2021,132.35,False
+Odisha,2022,141.55,False
+Odisha,2023,154.4,False
+Odisha,2024,153.83,True
+Odisha,2025,158.72,True
+Odisha,2026,163.61,True
+Odisha,2027,168.5,True
+Odisha,2028,173.39,True
+Odisha,2029,178.28,True
+Odisha,2030,183.16,True
+Odisha,2031,188.05,True
+Odisha,2032,192.94,True
+Odisha,2033,197.83,True
+Odisha,2034,202.72,True
+Odisha,2035,207.61,True
+Punjab,2005,48.93,False
+Punjab,2006,50.25,False
+Punjab,2007,56.51,False
+Punjab,2008,60.57,False
+Punjab,2009,64.97,False
+Punjab,2010,67.15,False
+Punjab,2011,70.44,False
+Punjab,2012,77.98,False
+Punjab,2013,78.16,False
+Punjab,2014,86.67,False
+Punjab,2015,89.57,False
+Punjab,2016,92.44,False
+Punjab,2017,97.55,False
+Punjab,2018,105.17,False
+Punjab,2019,107.2,False
+Punjab,2020,94.54,False
+Punjab,2021,106.97,False
+Punjab,2022,110.69,False
+Punjab,2023,122.55,False
+Punjab,2024,121.98,True
+Punjab,2025,125.82,True
+Punjab,2026,129.66,True
+Punjab,2027,133.5,True
+Punjab,2028,137.34,True
+Punjab,2029,141.18,True
+Punjab,2030,145.01,True
+Punjab,2031,148.85,True
+Punjab,2032,152.69,True
+Punjab,2033,156.53,True
+Punjab,2034,160.37,True
+Punjab,2035,164.21,True
+Haryana,2005,46.67,False
+Haryana,2006,52.08,False
+Haryana,2007,56.95,False
+Haryana,2008,59.24,False
+Haryana,2009,63.17,False
+Haryana,2010,65.1,False
+Haryana,2011,71.48,False
+Haryana,2012,76.23,False
+Haryana,2013,78.88,False
+Haryana,2014,84.55,False
+Haryana,2015,91.23,False
+Haryana,2016,95.02,False
+Haryana,2017,96.7,False
+Haryana,2018,102.93,False
+Haryana,2019,102.19,False
+Haryana,2020,95.49,False
+Haryana,2021,105.34,False
+Haryana,2022,112.97,False
+Haryana,2023,122.52,False
+Haryana,2024,121.65,True
+Haryana,2025,125.51,True
+Haryana,2026,129.37,True
+Haryana,2027,133.22,True
+Haryana,2028,137.08,True
+Haryana,2029,140.93,True
+Haryana,2030,144.79,True
+Haryana,2031,148.65,True
+Haryana,2032,152.5,True
+Haryana,2033,156.36,True
+Haryana,2034,160.21,True
+Haryana,2035,164.07,True
+Bihar,2005,60.51,False
+Bihar,2006,63.87,False
+Bihar,2007,71.79,False
+Bihar,2008,73.31,False
+Bihar,2009,81.37,False
+Bihar,2010,83.48,False
+Bihar,2011,89.01,False
+Bihar,2012,97.93,False
+Bihar,2013,99.14,False
+Bihar,2014,107.09,False
+Bihar,2015,115.0,False
+Bihar,2016,121.8,False
+Bihar,2017,122.51,False
+Bihar,2018,129.28,False
+Bihar,2019,132.37,False
+Bihar,2020,120.64,False
+Bihar,2021,135.31,False
+Bihar,2022,142.32,False
+Bihar,2023,148.95,False
+Bihar,2024,153.36,True
+Bihar,2025,158.19,True
+Bihar,2026,163.02,True
+Bihar,2027,167.86,True
+Bihar,2028,172.69,True
+Bihar,2029,177.52,True
+Bihar,2030,182.35,True
+Bihar,2031,187.19,True
+Bihar,2032,192.02,True
+Bihar,2033,196.85,True
+Bihar,2034,201.68,True
+Bihar,2035,206.52,True
+Jharkhand,2005,46.91,False
+Jharkhand,2006,51.44,False
+Jharkhand,2007,57.61,False
+Jharkhand,2008,59.31,False
+Jharkhand,2009,62.01,False
+Jharkhand,2010,66.37,False
+Jharkhand,2011,70.92,False
+Jharkhand,2012,79.74,False
+Jharkhand,2013,80.44,False
+Jharkhand,2014,83.57,False
+Jharkhand,2015,88.08,False
+Jharkhand,2016,93.65,False
+Jharkhand,2017,98.08,False
+Jharkhand,2018,103.0,False
+Jharkhand,2019,105.27,False
+Jharkhand,2020,97.82,False
+Jharkhand,2021,107.48,False
+Jharkhand,2022,113.38,False
+Jharkhand,2023,123.6,False
+Jharkhand,2024,123.01,True
+Jharkhand,2025,126.95,True
+Jharkhand,2026,130.89,True
+Jharkhand,2027,134.83,True
+Jharkhand,2028,138.77,True
+Jharkhand,2029,142.71,True
+Jharkhand,2030,146.65,True
+Jharkhand,2031,150.59,True
+Jharkhand,2032,154.53,True
+Jharkhand,2033,158.47,True
+Jharkhand,2034,162.41,True
+Jharkhand,2035,166.35,True
+Chhattisgarh,2005,47.79,False
+Chhattisgarh,2006,52.61,False
+Chhattisgarh,2007,56.46,False
+Chhattisgarh,2008,60.51,False
+Chhattisgarh,2009,65.74,False
+Chhattisgarh,2010,68.03,False
+Chhattisgarh,2011,70.23,False
+Chhattisgarh,2012,77.65,False
+Chhattisgarh,2013,79.02,False
+Chhattisgarh,2014,84.11,False
+Chhattisgarh,2015,91.06,False
+Chhattisgarh,2016,95.79,False
+Chhattisgarh,2017,96.49,False
+Chhattisgarh,2018,105.3,False
+Chhattisgarh,2019,104.86,False
+Chhattisgarh,2020,97.84,False
+Chhattisgarh,2021,103.95,False
+Chhattisgarh,2022,112.35,False
+Chhattisgarh,2023,120.89,False
+Chhattisgarh,2024,121.69,True
+Chhattisgarh,2025,125.48,True
+Chhattisgarh,2026,129.28,True
+Chhattisgarh,2027,133.07,True
+Chhattisgarh,2028,136.87,True
+Chhattisgarh,2029,140.67,True
+Chhattisgarh,2030,144.46,True
+Chhattisgarh,2031,148.26,True
+Chhattisgarh,2032,152.06,True
+Chhattisgarh,2033,155.85,True
+Chhattisgarh,2034,159.65,True
+Chhattisgarh,2035,163.45,True

@@ -1,0 +1,94 @@
+INSTRUCTIONS TO RUN THE PIPELINE MANUALLY
+==========================================
+
+Since the automated PowerShell environment appears to have configuration issues,
+follow these steps manually:
+
+STEP 1: Open Command Prompt or PowerShell
+==========================================
+Press Windows Key + R, type: cmd
+Then navigate to the directory
+
+STEP 2: Navigate to Working Directory
+======================================
+Type: cd /d "c:\Users\KIIT0001\OneDrive\Desktop\tryingit"
+Press Enter
+
+STEP 3: Create Data Directory
+==============================
+Type: mkdir data
+(If directory already exists, this will show an error which is fine)
+Press Enter
+
+STEP 4: Run Data Fetcher Script
+================================
+Type: python RUN_FULL_PIPELINE.py
+Press Enter
+
+This will automatically:
+1. Show current environment and directory contents
+2. Create/verify data directory exists
+3. Run data_fetcher.py - which will:
+   - Download OWID CO2 dataset from GitHub
+   - Generate state-level emission estimates for 15 Indian states
+   - Calculate net-zero gaps (45% reduction targets)
+   - Output to: data/owid_co2_data.csv, data/state_emissions.csv, data/net_zero_gaps.csv
+   - Display: "DATA PIPELINE COMPLETE"
+
+4. Run ml_model.py - which will:
+   - Load state emissions data
+   - Train Linear Regression models for each state
+   - Forecast emissions through 2035
+   - Classify states into tiers (On Track / Needs Attention / Critical)
+   - Output to: data/emissions_forecast.csv, data/state_tiers.csv
+   - Display: "ML PIPELINE COMPLETE"
+
+5. List all generated files in data/ directory
+
+EXPECTED OUTPUT:
+================
+You should see:
+- "DATA PIPELINE COMPLETE" message from data_fetcher.py
+- "ML PIPELINE COMPLETE" message from ml_model.py
+- List of generated CSV files with their sizes
+
+GENERATED FILES:
+================
+After completion, the data/ directory will contain:
+- owid_co2_data.csv (National India emissions from OWID)
+- india_national.csv (National data)
+- state_emissions.csv (State-level emissions by sector and year)
+- net_zero_gaps.csv (Gap analysis for each state)
+- emissions_forecast.csv (Historical + forecasted emissions through 2035)
+- state_tiers.csv (State classifications and growth metrics)
+
+ALTERNATIVE: Run Individual Scripts
+====================================
+If you prefer to run individually:
+
+Step 1: python data_fetcher.py
+Step 2: python ml_model.py
+Step 3: dir data
+
+OTHER PYTHON RUNNER SCRIPTS CREATED:
+====================================
+- RUN_FULL_PIPELINE.py (comprehensive with full output)
+- EXECUTE_ALL.py (similar functionality)
+- run_pipeline_complete.py (subprocess-based approach)
+- quick_run.py (minimal wrapper)
+
+Any of these can be run with: python script_name.py
+
+TROUBLESHOOTING:
+================
+If you get "ModuleNotFoundError":
+1. Install requirements first: pip install -r requirements.txt
+2. Then run the pipeline
+
+If network errors occur in data_fetcher.py:
+- It will use fallback mode with estimated data
+- Pipeline will still complete successfully
+
+If you encounter permission errors:
+- Run Command Prompt as Administrator
+- Then try the commands again

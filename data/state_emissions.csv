@@ -1,0 +1,1426 @@
+state,year,sector,co2_mt,gdp_usd,population,net_zero_gap_mt
+Maharashtra,2005,Energy,65.72,400,124,164.23
+Maharashtra,2005,Industry,35.69,400,124,164.23
+Maharashtra,2005,Transport,21.11,400,124,164.23
+Maharashtra,2005,Agriculture,14.26,400,124,164.23
+Maharashtra,2005,Waste,7.28,400,124,164.23
+Maharashtra,2006,Energy,66.9,400,124,164.23
+Maharashtra,2006,Industry,38.1,400,124,164.23
+Maharashtra,2006,Transport,22.35,400,124,164.23
+Maharashtra,2006,Agriculture,16.21,400,124,164.23
+Maharashtra,2006,Waste,7.94,400,124,164.23
+Maharashtra,2007,Energy,71.92,400,124,164.23
+Maharashtra,2007,Industry,40.32,400,124,164.23
+Maharashtra,2007,Transport,25.78,400,124,164.23
+Maharashtra,2007,Agriculture,16.82,400,124,164.23
+Maharashtra,2007,Waste,8.1,400,124,164.23
+Maharashtra,2008,Energy,80.42,400,124,164.23
+Maharashtra,2008,Industry,46.81,400,124,164.23
+Maharashtra,2008,Transport,27.75,400,124,164.23
+Maharashtra,2008,Agriculture,18.12,400,124,164.23
+Maharashtra,2008,Waste,8.98,400,124,164.23
+Maharashtra,2009,Energy,87.6,400,124,164.23
+Maharashtra,2009,Industry,49.35,400,124,164.23
+Maharashtra,2009,Transport,27.97,400,124,164.23
+Maharashtra,2009,Agriculture,19.17,400,124,164.23
+Maharashtra,2009,Waste,9.33,400,124,164.23
+Maharashtra,2010,Energy,91.26,400,124,164.23
+Maharashtra,2010,Industry,50.0,400,124,164.23
+Maharashtra,2010,Transport,29.9,400,124,164.23
+Maharashtra,2010,Agriculture,20.76,400,124,164.23
+Maharashtra,2010,Waste,9.67,400,124,164.23
+Maharashtra,2011,Energy,98.09,400,124,164.23
+Maharashtra,2011,Industry,55.26,400,124,164.23
+Maharashtra,2011,Transport,32.68,400,124,164.23
+Maharashtra,2011,Agriculture,21.39,400,124,164.23
+Maharashtra,2011,Waste,11.06,400,124,164.23
+Maharashtra,2012,Energy,101.68,400,124,164.23
+Maharashtra,2012,Industry,59.02,400,124,164.23
+Maharashtra,2012,Transport,34.16,400,124,164.23
+Maharashtra,2012,Agriculture,22.8,400,124,164.23
+Maharashtra,2012,Waste,11.32,400,124,164.23
+Maharashtra,2013,Energy,105.14,400,124,164.23
+Maharashtra,2013,Industry,61.57,400,124,164.23
+Maharashtra,2013,Transport,36.98,400,124,164.23
+Maharashtra,2013,Agriculture,25.0,400,124,164.23
+Maharashtra,2013,Waste,12.05,400,124,164.23
+Maharashtra,2014,Energy,120.3,400,124,164.23
+Maharashtra,2014,Industry,66.51,400,124,164.23
+Maharashtra,2014,Transport,37.11,400,124,164.23
+Maharashtra,2014,Agriculture,25.01,400,124,164.23
+Maharashtra,2014,Waste,13.02,400,124,164.23
+Maharashtra,2015,Energy,125.6,400,124,164.23
+Maharashtra,2015,Industry,65.92,400,124,164.23
+Maharashtra,2015,Transport,39.4,400,124,164.23
+Maharashtra,2015,Agriculture,28.12,400,124,164.23
+Maharashtra,2015,Waste,13.61,400,124,164.23
+Maharashtra,2016,Energy,124.96,400,124,164.23
+Maharashtra,2016,Industry,73.66,400,124,164.23
+Maharashtra,2016,Transport,42.33,400,124,164.23
+Maharashtra,2016,Agriculture,28.13,400,124,164.23
+Maharashtra,2016,Waste,13.7,400,124,164.23
+Maharashtra,2017,Energy,136.19,400,124,164.23
+Maharashtra,2017,Industry,75.25,400,124,164.23
+Maharashtra,2017,Transport,42.98,400,124,164.23
+Maharashtra,2017,Agriculture,27.67,400,124,164.23
+Maharashtra,2017,Waste,14.97,400,124,164.23
+Maharashtra,2018,Energy,140.38,400,124,164.23
+Maharashtra,2018,Industry,77.62,400,124,164.23
+Maharashtra,2018,Transport,44.75,400,124,164.23
+Maharashtra,2018,Agriculture,31.22,400,124,164.23
+Maharashtra,2018,Waste,16.04,400,124,164.23
+Maharashtra,2019,Energy,144.74,400,124,164.23
+Maharashtra,2019,Industry,75.26,400,124,164.23
+Maharashtra,2019,Transport,48.22,400,124,164.23
+Maharashtra,2019,Agriculture,30.99,400,124,164.23
+Maharashtra,2019,Waste,15.42,400,124,164.23
+Maharashtra,2020,Energy,134.55,400,124,164.23
+Maharashtra,2020,Industry,74.5,400,124,164.23
+Maharashtra,2020,Transport,42.12,400,124,164.23
+Maharashtra,2020,Agriculture,29.65,400,124,164.23
+Maharashtra,2020,Waste,15.13,400,124,164.23
+Maharashtra,2021,Energy,141.5,400,124,164.23
+Maharashtra,2021,Industry,80.05,400,124,164.23
+Maharashtra,2021,Transport,45.94,400,124,164.23
+Maharashtra,2021,Agriculture,31.68,400,124,164.23
+Maharashtra,2021,Waste,16.33,400,124,164.23
+Maharashtra,2022,Energy,146.77,400,124,164.23
+Maharashtra,2022,Industry,87.88,400,124,164.23
+Maharashtra,2022,Transport,52.45,400,124,164.23
+Maharashtra,2022,Agriculture,32.64,400,124,164.23
+Maharashtra,2022,Waste,17.84,400,124,164.23
+Maharashtra,2023,Energy,161.44,400,124,164.23
+Maharashtra,2023,Industry,92.8,400,124,164.23
+Maharashtra,2023,Transport,56.42,400,124,164.23
+Maharashtra,2023,Agriculture,35.71,400,124,164.23
+Maharashtra,2023,Waste,18.58,400,124,164.23
+Uttar Pradesh,2005,Energy,60.33,240,240,149.66
+Uttar Pradesh,2005,Industry,31.97,240,240,149.66
+Uttar Pradesh,2005,Transport,19.53,240,240,149.66
+Uttar Pradesh,2005,Agriculture,12.85,240,240,149.66
+Uttar Pradesh,2005,Waste,6.38,240,240,149.66
+Uttar Pradesh,2006,Energy,66.16,240,240,149.66
+Uttar Pradesh,2006,Industry,36.5,240,240,149.66
+Uttar Pradesh,2006,Transport,22.37,240,240,149.66
+Uttar Pradesh,2006,Agriculture,14.67,240,240,149.66
+Uttar Pradesh,2006,Waste,7.38,240,240,149.66
+Uttar Pradesh,2007,Energy,72.35,240,240,149.66
+Uttar Pradesh,2007,Industry,38.31,240,240,149.66
+Uttar Pradesh,2007,Transport,23.3,240,240,149.66
+Uttar Pradesh,2007,Agriculture,14.75,240,240,149.66
+Uttar Pradesh,2007,Waste,7.72,240,240,149.66
+Uttar Pradesh,2008,Energy,76.94,240,240,149.66
+Uttar Pradesh,2008,Industry,40.82,240,240,149.66
+Uttar Pradesh,2008,Transport,24.91,240,240,149.66
+Uttar Pradesh,2008,Agriculture,16.31,240,240,149.66
+Uttar Pradesh,2008,Waste,8.26,240,240,149.66
+Uttar Pradesh,2009,Energy,83.8,240,240,149.66
+Uttar Pradesh,2009,Industry,43.97,240,240,149.66
+Uttar Pradesh,2009,Transport,25.97,240,240,149.66
+Uttar Pradesh,2009,Agriculture,18.41,240,240,149.66
+Uttar Pradesh,2009,Waste,8.71,240,240,149.66
+Uttar Pradesh,2010,Energy,85.96,240,240,149.66
+Uttar Pradesh,2010,Industry,45.48,240,240,149.66
+Uttar Pradesh,2010,Transport,28.59,240,240,149.66
+Uttar Pradesh,2010,Agriculture,18.84,240,240,149.66
+Uttar Pradesh,2010,Waste,9.23,240,240,149.66
+Uttar Pradesh,2011,Energy,88.74,240,240,149.66
+Uttar Pradesh,2011,Industry,48.64,240,240,149.66
+Uttar Pradesh,2011,Transport,30.5,240,240,149.66
+Uttar Pradesh,2011,Agriculture,18.9,240,240,149.66
+Uttar Pradesh,2011,Waste,9.29,240,240,149.66
+Uttar Pradesh,2012,Energy,97.37,240,240,149.66
+Uttar Pradesh,2012,Industry,52.64,240,240,149.66
+Uttar Pradesh,2012,Transport,30.59,240,240,149.66
+Uttar Pradesh,2012,Agriculture,20.15,240,240,149.66
+Uttar Pradesh,2012,Waste,10.75,240,240,149.66
+Uttar Pradesh,2013,Energy,99.93,240,240,149.66
+Uttar Pradesh,2013,Industry,52.75,240,240,149.66
+Uttar Pradesh,2013,Transport,31.34,240,240,149.66
+Uttar Pradesh,2013,Agriculture,21.94,240,240,149.66
+Uttar Pradesh,2013,Waste,10.59,240,240,149.66
+Uttar Pradesh,2014,Energy,105.7,240,240,149.66
+Uttar Pradesh,2014,Industry,58.14,240,240,149.66
+Uttar Pradesh,2014,Transport,35.39,240,240,149.66
+Uttar Pradesh,2014,Agriculture,24.3,240,240,149.66
+Uttar Pradesh,2014,Waste,12.1,240,240,149.66
+Uttar Pradesh,2015,Energy,111.58,240,240,149.66
+Uttar Pradesh,2015,Industry,59.01,240,240,149.66
+Uttar Pradesh,2015,Transport,36.7,240,240,149.66
+Uttar Pradesh,2015,Agriculture,25.13,240,240,149.66
+Uttar Pradesh,2015,Waste,12.14,240,240,149.66
+Uttar Pradesh,2016,Energy,117.74,240,240,149.66
+Uttar Pradesh,2016,Industry,65.86,240,240,149.66
+Uttar Pradesh,2016,Transport,38.6,240,240,149.66
+Uttar Pradesh,2016,Agriculture,26.88,240,240,149.66
+Uttar Pradesh,2016,Waste,13.21,240,240,149.66
+Uttar Pradesh,2017,Energy,114.98,240,240,149.66
+Uttar Pradesh,2017,Industry,63.94,240,240,149.66
+Uttar Pradesh,2017,Transport,40.61,240,240,149.66
+Uttar Pradesh,2017,Agriculture,25.93,240,240,149.66
+Uttar Pradesh,2017,Waste,13.37,240,240,149.66
+Uttar Pradesh,2018,Energy,133.99,240,240,149.66
+Uttar Pradesh,2018,Industry,69.01,240,240,149.66
+Uttar Pradesh,2018,Transport,41.95,240,240,149.66
+Uttar Pradesh,2018,Agriculture,27.16,240,240,149.66
+Uttar Pradesh,2018,Waste,13.66,240,240,149.66
+Uttar Pradesh,2019,Energy,125.72,240,240,149.66
+Uttar Pradesh,2019,Industry,72.7,240,240,149.66
+Uttar Pradesh,2019,Transport,42.27,240,240,149.66
+Uttar Pradesh,2019,Agriculture,27.33,240,240,149.66
+Uttar Pradesh,2019,Waste,14.83,240,240,149.66
+Uttar Pradesh,2020,Energy,121.3,240,240,149.66
+Uttar Pradesh,2020,Industry,65.63,240,240,149.66
+Uttar Pradesh,2020,Transport,39.89,240,240,149.66
+Uttar Pradesh,2020,Agriculture,25.53,240,240,149.66
+Uttar Pradesh,2020,Waste,13.55,240,240,149.66
+Uttar Pradesh,2021,Energy,136.13,240,240,149.66
+Uttar Pradesh,2021,Industry,71.31,240,240,149.66
+Uttar Pradesh,2021,Transport,42.34,240,240,149.66
+Uttar Pradesh,2021,Agriculture,29.24,240,240,149.66
+Uttar Pradesh,2021,Waste,14.5,240,240,149.66
+Uttar Pradesh,2022,Energy,135.12,240,240,149.66
+Uttar Pradesh,2022,Industry,80.95,240,240,149.66
+Uttar Pradesh,2022,Transport,47.58,240,240,149.66
+Uttar Pradesh,2022,Agriculture,29.83,240,240,149.66
+Uttar Pradesh,2022,Waste,15.24,240,240,149.66
+Uttar Pradesh,2023,Energy,148.04,240,240,149.66
+Uttar Pradesh,2023,Industry,81.14,240,240,149.66
+Uttar Pradesh,2023,Transport,51.52,240,240,149.66
+Uttar Pradesh,2023,Agriculture,34.68,240,240,149.66
+Uttar Pradesh,2023,Waste,17.19,240,240,149.66
+Gujarat,2005,Energy,53.56,250,70,138.48
+Gujarat,2005,Industry,29.65,250,70,138.48
+Gujarat,2005,Transport,18.75,250,70,138.48
+Gujarat,2005,Agriculture,11.91,250,70,138.48
+Gujarat,2005,Waste,6.02,250,70,138.48
+Gujarat,2006,Energy,58.4,250,70,138.48
+Gujarat,2006,Industry,32.39,250,70,138.48
+Gujarat,2006,Transport,20.37,250,70,138.48
+Gujarat,2006,Agriculture,13.45,250,70,138.48
+Gujarat,2006,Waste,6.44,250,70,138.48
+Gujarat,2007,Energy,62.87,250,70,138.48
+Gujarat,2007,Industry,35.13,250,70,138.48
+Gujarat,2007,Transport,20.86,250,70,138.48
+Gujarat,2007,Agriculture,13.96,250,70,138.48
+Gujarat,2007,Waste,7.23,250,70,138.48
+Gujarat,2008,Energy,69.66,250,70,138.48
+Gujarat,2008,Industry,38.0,250,70,138.48
+Gujarat,2008,Transport,23.13,250,70,138.48
+Gujarat,2008,Agriculture,15.03,250,70,138.48
+Gujarat,2008,Waste,7.7,250,70,138.48
+Gujarat,2009,Energy,70.78,250,70,138.48
+Gujarat,2009,Industry,40.69,250,70,138.48
+Gujarat,2009,Transport,25.32,250,70,138.48
+Gujarat,2009,Agriculture,16.39,250,70,138.48
+Gujarat,2009,Waste,7.95,250,70,138.48
+Gujarat,2010,Energy,74.92,250,70,138.48
+Gujarat,2010,Industry,40.35,250,70,138.48
+Gujarat,2010,Transport,26.24,250,70,138.48
+Gujarat,2010,Agriculture,16.96,250,70,138.48
+Gujarat,2010,Waste,8.33,250,70,138.48
+Gujarat,2011,Energy,81.47,250,70,138.48
+Gujarat,2011,Industry,45.21,250,70,138.48
+Gujarat,2011,Transport,25.67,250,70,138.48
+Gujarat,2011,Agriculture,16.81,250,70,138.48
+Gujarat,2011,Waste,8.5,250,70,138.48
+Gujarat,2012,Energy,85.93,250,70,138.48
+Gujarat,2012,Industry,47.02,250,70,138.48
+Gujarat,2012,Transport,29.53,250,70,138.48
+Gujarat,2012,Agriculture,20.01,250,70,138.48
+Gujarat,2012,Waste,9.92,250,70,138.48
+Gujarat,2013,Energy,86.8,250,70,138.48
+Gujarat,2013,Industry,47.82,250,70,138.48
+Gujarat,2013,Transport,30.43,250,70,138.48
+Gujarat,2013,Agriculture,20.24,250,70,138.48
+Gujarat,2013,Waste,9.51,250,70,138.48
+Gujarat,2014,Energy,94.34,250,70,138.48
+Gujarat,2014,Industry,53.41,250,70,138.48
+Gujarat,2014,Transport,31.94,250,70,138.48
+Gujarat,2014,Agriculture,21.24,250,70,138.48
+Gujarat,2014,Waste,10.35,250,70,138.48
+Gujarat,2015,Energy,98.77,250,70,138.48
+Gujarat,2015,Industry,58.05,250,70,138.48
+Gujarat,2015,Transport,34.67,250,70,138.48
+Gujarat,2015,Agriculture,21.94,250,70,138.48
+Gujarat,2015,Waste,11.21,250,70,138.48
+Gujarat,2016,Energy,101.6,250,70,138.48
+Gujarat,2016,Industry,56.39,250,70,138.48
+Gujarat,2016,Transport,36.62,250,70,138.48
+Gujarat,2016,Agriculture,23.17,250,70,138.48
+Gujarat,2016,Waste,11.88,250,70,138.48
+Gujarat,2017,Energy,114.13,250,70,138.48
+Gujarat,2017,Industry,60.72,250,70,138.48
+Gujarat,2017,Transport,37.31,250,70,138.48
+Gujarat,2017,Agriculture,24.04,250,70,138.48
+Gujarat,2017,Waste,12.52,250,70,138.48
+Gujarat,2018,Energy,113.9,250,70,138.48
+Gujarat,2018,Industry,65.08,250,70,138.48
+Gujarat,2018,Transport,39.11,250,70,138.48
+Gujarat,2018,Agriculture,26.26,250,70,138.48
+Gujarat,2018,Waste,13.33,250,70,138.48
+Gujarat,2019,Energy,121.92,250,70,138.48
+Gujarat,2019,Industry,66.53,250,70,138.48
+Gujarat,2019,Transport,37.62,250,70,138.48
+Gujarat,2019,Agriculture,27.0,250,70,138.48
+Gujarat,2019,Waste,13.61,250,70,138.48
+Gujarat,2020,Energy,111.22,250,70,138.48
+Gujarat,2020,Industry,58.3,250,70,138.48
+Gujarat,2020,Transport,36.65,250,70,138.48
+Gujarat,2020,Agriculture,23.86,250,70,138.48
+Gujarat,2020,Waste,11.95,250,70,138.48
+Gujarat,2021,Energy,124.93,250,70,138.48
+Gujarat,2021,Industry,65.51,250,70,138.48
+Gujarat,2021,Transport,39.83,250,70,138.48
+Gujarat,2021,Agriculture,26.57,250,70,138.48
+Gujarat,2021,Waste,13.67,250,70,138.48
+Gujarat,2022,Energy,129.9,250,70,138.48
+Gujarat,2022,Industry,69.2,250,70,138.48
+Gujarat,2022,Transport,41.76,250,70,138.48
+Gujarat,2022,Agriculture,27.3,250,70,138.48
+Gujarat,2022,Waste,13.76,250,70,138.48
+Gujarat,2023,Energy,137.5,250,70,138.48
+Gujarat,2023,Industry,79.0,250,70,138.48
+Gujarat,2023,Transport,46.7,250,70,138.48
+Gujarat,2023,Agriculture,29.18,250,70,138.48
+Gujarat,2023,Waste,15.35,250,70,138.48
+Rajasthan,2005,Energy,38.08,150,82,94.54
+Rajasthan,2005,Industry,21.86,150,82,94.54
+Rajasthan,2005,Transport,12.93,150,82,94.54
+Rajasthan,2005,Agriculture,8.15,150,82,94.54
+Rajasthan,2005,Waste,4.37,150,82,94.54
+Rajasthan,2006,Energy,41.34,150,82,94.54
+Rajasthan,2006,Industry,22.55,150,82,94.54
+Rajasthan,2006,Transport,14.1,150,82,94.54
+Rajasthan,2006,Agriculture,9.14,150,82,94.54
+Rajasthan,2006,Waste,4.66,150,82,94.54
+Rajasthan,2007,Energy,45.04,150,82,94.54
+Rajasthan,2007,Industry,25.55,150,82,94.54
+Rajasthan,2007,Transport,14.37,150,82,94.54
+Rajasthan,2007,Agriculture,9.73,150,82,94.54
+Rajasthan,2007,Waste,4.78,150,82,94.54
+Rajasthan,2008,Energy,45.08,150,82,94.54
+Rajasthan,2008,Industry,26.36,150,82,94.54
+Rajasthan,2008,Transport,15.34,150,82,94.54
+Rajasthan,2008,Agriculture,10.32,150,82,94.54
+Rajasthan,2008,Waste,5.15,150,82,94.54
+Rajasthan,2009,Energy,50.96,150,82,94.54
+Rajasthan,2009,Industry,26.87,150,82,94.54
+Rajasthan,2009,Transport,16.24,150,82,94.54
+Rajasthan,2009,Agriculture,10.82,150,82,94.54
+Rajasthan,2009,Waste,5.45,150,82,94.54
+Rajasthan,2010,Energy,51.82,150,82,94.54
+Rajasthan,2010,Industry,28.54,150,82,94.54
+Rajasthan,2010,Transport,17.48,150,82,94.54
+Rajasthan,2010,Agriculture,11.61,150,82,94.54
+Rajasthan,2010,Waste,5.83,150,82,94.54
+Rajasthan,2011,Energy,56.77,150,82,94.54
+Rajasthan,2011,Industry,29.62,150,82,94.54
+Rajasthan,2011,Transport,19.36,150,82,94.54
+Rajasthan,2011,Agriculture,12.32,150,82,94.54
+Rajasthan,2011,Waste,6.14,150,82,94.54
+Rajasthan,2012,Energy,59.33,150,82,94.54
+Rajasthan,2012,Industry,35.12,150,82,94.54
+Rajasthan,2012,Transport,20.38,150,82,94.54
+Rajasthan,2012,Agriculture,12.95,150,82,94.54
+Rajasthan,2012,Waste,6.95,150,82,94.54
+Rajasthan,2013,Energy,62.57,150,82,94.54
+Rajasthan,2013,Industry,35.02,150,82,94.54
+Rajasthan,2013,Transport,20.39,150,82,94.54
+Rajasthan,2013,Agriculture,14.44,150,82,94.54
+Rajasthan,2013,Waste,7.01,150,82,94.54
+Rajasthan,2014,Energy,67.51,150,82,94.54
+Rajasthan,2014,Industry,37.57,150,82,94.54
+Rajasthan,2014,Transport,21.71,150,82,94.54
+Rajasthan,2014,Agriculture,15.39,150,82,94.54
+Rajasthan,2014,Waste,7.52,150,82,94.54
+Rajasthan,2015,Energy,70.73,150,82,94.54
+Rajasthan,2015,Industry,38.88,150,82,94.54
+Rajasthan,2015,Transport,22.55,150,82,94.54
+Rajasthan,2015,Agriculture,15.16,150,82,94.54
+Rajasthan,2015,Waste,7.81,150,82,94.54
+Rajasthan,2016,Energy,72.23,150,82,94.54
+Rajasthan,2016,Industry,40.68,150,82,94.54
+Rajasthan,2016,Transport,24.02,150,82,94.54
+Rajasthan,2016,Agriculture,16.03,150,82,94.54
+Rajasthan,2016,Waste,8.39,150,82,94.54
+Rajasthan,2017,Energy,74.29,150,82,94.54
+Rajasthan,2017,Industry,42.84,150,82,94.54
+Rajasthan,2017,Transport,25.13,150,82,94.54
+Rajasthan,2017,Agriculture,17.2,150,82,94.54
+Rajasthan,2017,Waste,8.58,150,82,94.54
+Rajasthan,2018,Energy,80.47,150,82,94.54
+Rajasthan,2018,Industry,47.46,150,82,94.54
+Rajasthan,2018,Transport,26.88,150,82,94.54
+Rajasthan,2018,Agriculture,18.57,150,82,94.54
+Rajasthan,2018,Waste,9.28,150,82,94.54
+Rajasthan,2019,Energy,79.7,150,82,94.54
+Rajasthan,2019,Industry,47.03,150,82,94.54
+Rajasthan,2019,Transport,27.1,150,82,94.54
+Rajasthan,2019,Agriculture,18.19,150,82,94.54
+Rajasthan,2019,Waste,9.3,150,82,94.54
+Rajasthan,2020,Energy,76.06,150,82,94.54
+Rajasthan,2020,Industry,42.16,150,82,94.54
+Rajasthan,2020,Transport,25.01,150,82,94.54
+Rajasthan,2020,Agriculture,17.57,150,82,94.54
+Rajasthan,2020,Waste,8.54,150,82,94.54
+Rajasthan,2021,Energy,85.06,150,82,94.54
+Rajasthan,2021,Industry,45.49,150,82,94.54
+Rajasthan,2021,Transport,28.04,150,82,94.54
+Rajasthan,2021,Agriculture,17.8,150,82,94.54
+Rajasthan,2021,Waste,9.71,150,82,94.54
+Rajasthan,2022,Energy,87.53,150,82,94.54
+Rajasthan,2022,Industry,51.74,150,82,94.54
+Rajasthan,2022,Transport,30.03,150,82,94.54
+Rajasthan,2022,Agriculture,20.66,150,82,94.54
+Rajasthan,2022,Waste,10.34,150,82,94.54
+Rajasthan,2023,Energy,92.35,150,82,94.54
+Rajasthan,2023,Industry,54.18,150,82,94.54
+Rajasthan,2023,Transport,31.68,150,82,94.54
+Rajasthan,2023,Agriculture,21.1,150,82,94.54
+Rajasthan,2023,Waste,10.79,150,82,94.54
+Madhya Pradesh,2005,Energy,35.94,130,88,94.76
+Madhya Pradesh,2005,Industry,21.03,130,88,94.76
+Madhya Pradesh,2005,Transport,12.9,130,88,94.76
+Madhya Pradesh,2005,Agriculture,8.28,130,88,94.76
+Madhya Pradesh,2005,Waste,4.28,130,88,94.76
+Madhya Pradesh,2006,Energy,39.32,130,88,94.76
+Madhya Pradesh,2006,Industry,22.86,130,88,94.76
+Madhya Pradesh,2006,Transport,14.13,130,88,94.76
+Madhya Pradesh,2006,Agriculture,9.25,130,88,94.76
+Madhya Pradesh,2006,Waste,4.3,130,88,94.76
+Madhya Pradesh,2007,Energy,44.91,130,88,94.76
+Madhya Pradesh,2007,Industry,24.56,130,88,94.76
+Madhya Pradesh,2007,Transport,15.08,130,88,94.76
+Madhya Pradesh,2007,Agriculture,9.34,130,88,94.76
+Madhya Pradesh,2007,Waste,5.01,130,88,94.76
+Madhya Pradesh,2008,Energy,46.69,130,88,94.76
+Madhya Pradesh,2008,Industry,27.33,130,88,94.76
+Madhya Pradesh,2008,Transport,15.36,130,88,94.76
+Madhya Pradesh,2008,Agriculture,10.71,130,88,94.76
+Madhya Pradesh,2008,Waste,5.4,130,88,94.76
+Madhya Pradesh,2009,Energy,49.51,130,88,94.76
+Madhya Pradesh,2009,Industry,28.62,130,88,94.76
+Madhya Pradesh,2009,Transport,17.4,130,88,94.76
+Madhya Pradesh,2009,Agriculture,11.8,130,88,94.76
+Madhya Pradesh,2009,Waste,5.52,130,88,94.76
+Madhya Pradesh,2010,Energy,52.22,130,88,94.76
+Madhya Pradesh,2010,Industry,27.99,130,88,94.76
+Madhya Pradesh,2010,Transport,17.55,130,88,94.76
+Madhya Pradesh,2010,Agriculture,11.19,130,88,94.76
+Madhya Pradesh,2010,Waste,5.89,130,88,94.76
+Madhya Pradesh,2011,Energy,54.11,130,88,94.76
+Madhya Pradesh,2011,Industry,31.76,130,88,94.76
+Madhya Pradesh,2011,Transport,17.83,130,88,94.76
+Madhya Pradesh,2011,Agriculture,12.56,130,88,94.76
+Madhya Pradesh,2011,Waste,6.04,130,88,94.76
+Madhya Pradesh,2012,Energy,63.51,130,88,94.76
+Madhya Pradesh,2012,Industry,32.07,130,88,94.76
+Madhya Pradesh,2012,Transport,19.44,130,88,94.76
+Madhya Pradesh,2012,Agriculture,13.56,130,88,94.76
+Madhya Pradesh,2012,Waste,6.9,130,88,94.76
+Madhya Pradesh,2013,Energy,65.29,130,88,94.76
+Madhya Pradesh,2013,Industry,34.69,130,88,94.76
+Madhya Pradesh,2013,Transport,20.62,130,88,94.76
+Madhya Pradesh,2013,Agriculture,13.68,130,88,94.76
+Madhya Pradesh,2013,Waste,6.78,130,88,94.76
+Madhya Pradesh,2014,Energy,69.86,130,88,94.76
+Madhya Pradesh,2014,Industry,36.22,130,88,94.76
+Madhya Pradesh,2014,Transport,22.27,130,88,94.76
+Madhya Pradesh,2014,Agriculture,14.87,130,88,94.76
+Madhya Pradesh,2014,Waste,7.63,130,88,94.76
+Madhya Pradesh,2015,Energy,67.02,130,88,94.76
+Madhya Pradesh,2015,Industry,39.17,130,88,94.76
+Madhya Pradesh,2015,Transport,23.92,130,88,94.76
+Madhya Pradesh,2015,Agriculture,16.33,130,88,94.76
+Madhya Pradesh,2015,Waste,8.2,130,88,94.76
+Madhya Pradesh,2016,Energy,71.95,130,88,94.76
+Madhya Pradesh,2016,Industry,43.2,130,88,94.76
+Madhya Pradesh,2016,Transport,24.32,130,88,94.76
+Madhya Pradesh,2016,Agriculture,15.83,130,88,94.76
+Madhya Pradesh,2016,Waste,8.03,130,88,94.76
+Madhya Pradesh,2017,Energy,76.51,130,88,94.76
+Madhya Pradesh,2017,Industry,44.45,130,88,94.76
+Madhya Pradesh,2017,Transport,24.35,130,88,94.76
+Madhya Pradesh,2017,Agriculture,16.44,130,88,94.76
+Madhya Pradesh,2017,Waste,8.44,130,88,94.76
+Madhya Pradesh,2018,Energy,82.84,130,88,94.76
+Madhya Pradesh,2018,Industry,45.4,130,88,94.76
+Madhya Pradesh,2018,Transport,27.57,130,88,94.76
+Madhya Pradesh,2018,Agriculture,18.33,130,88,94.76
+Madhya Pradesh,2018,Waste,8.86,130,88,94.76
+Madhya Pradesh,2019,Energy,79.24,130,88,94.76
+Madhya Pradesh,2019,Industry,44.16,130,88,94.76
+Madhya Pradesh,2019,Transport,26.43,130,88,94.76
+Madhya Pradesh,2019,Agriculture,18.82,130,88,94.76
+Madhya Pradesh,2019,Waste,9.41,130,88,94.76
+Madhya Pradesh,2020,Energy,77.31,130,88,94.76
+Madhya Pradesh,2020,Industry,44.19,130,88,94.76
+Madhya Pradesh,2020,Transport,26.08,130,88,94.76
+Madhya Pradesh,2020,Agriculture,16.85,130,88,94.76
+Madhya Pradesh,2020,Waste,8.46,130,88,94.76
+Madhya Pradesh,2021,Energy,80.25,130,88,94.76
+Madhya Pradesh,2021,Industry,46.68,130,88,94.76
+Madhya Pradesh,2021,Transport,27.46,130,88,94.76
+Madhya Pradesh,2021,Agriculture,19.45,130,88,94.76
+Madhya Pradesh,2021,Waste,9.72,130,88,94.76
+Madhya Pradesh,2022,Energy,92.5,130,88,94.76
+Madhya Pradesh,2022,Industry,50.66,130,88,94.76
+Madhya Pradesh,2022,Transport,29.52,130,88,94.76
+Madhya Pradesh,2022,Agriculture,18.88,130,88,94.76
+Madhya Pradesh,2022,Waste,9.75,130,88,94.76
+Madhya Pradesh,2023,Energy,96.79,130,88,94.76
+Madhya Pradesh,2023,Industry,51.79,130,88,94.76
+Madhya Pradesh,2023,Transport,30.86,130,88,94.76
+Madhya Pradesh,2023,Agriculture,20.83,130,88,94.76
+Madhya Pradesh,2023,Waste,10.31,130,88,94.76
+Tamil Nadu,2005,Energy,40.94,280,77,111.21
+Tamil Nadu,2005,Industry,24.37,280,77,111.21
+Tamil Nadu,2005,Transport,14.8,280,77,111.21
+Tamil Nadu,2005,Agriculture,9.46,280,77,111.21
+Tamil Nadu,2005,Waste,4.67,280,77,111.21
+Tamil Nadu,2006,Energy,47.53,280,77,111.21
+Tamil Nadu,2006,Industry,26.24,280,77,111.21
+Tamil Nadu,2006,Transport,15.98,280,77,111.21
+Tamil Nadu,2006,Agriculture,10.29,280,77,111.21
+Tamil Nadu,2006,Waste,5.0,280,77,111.21
+Tamil Nadu,2007,Energy,47.77,280,77,111.21
+Tamil Nadu,2007,Industry,27.06,280,77,111.21
+Tamil Nadu,2007,Transport,17.0,280,77,111.21
+Tamil Nadu,2007,Agriculture,10.86,280,77,111.21
+Tamil Nadu,2007,Waste,5.68,280,77,111.21
+Tamil Nadu,2008,Energy,53.38,280,77,111.21
+Tamil Nadu,2008,Industry,28.73,280,77,111.21
+Tamil Nadu,2008,Transport,18.12,280,77,111.21
+Tamil Nadu,2008,Agriculture,12.27,280,77,111.21
+Tamil Nadu,2008,Waste,6.02,280,77,111.21
+Tamil Nadu,2009,Energy,55.45,280,77,111.21
+Tamil Nadu,2009,Industry,31.95,280,77,111.21
+Tamil Nadu,2009,Transport,18.84,280,77,111.21
+Tamil Nadu,2009,Agriculture,12.63,280,77,111.21
+Tamil Nadu,2009,Waste,6.23,280,77,111.21
+Tamil Nadu,2010,Energy,62.95,280,77,111.21
+Tamil Nadu,2010,Industry,34.24,280,77,111.21
+Tamil Nadu,2010,Transport,20.59,280,77,111.21
+Tamil Nadu,2010,Agriculture,13.32,280,77,111.21
+Tamil Nadu,2010,Waste,6.9,280,77,111.21
+Tamil Nadu,2011,Energy,63.95,280,77,111.21
+Tamil Nadu,2011,Industry,36.02,280,77,111.21
+Tamil Nadu,2011,Transport,22.04,280,77,111.21
+Tamil Nadu,2011,Agriculture,13.76,280,77,111.21
+Tamil Nadu,2011,Waste,7.11,280,77,111.21
+Tamil Nadu,2012,Energy,71.64,280,77,111.21
+Tamil Nadu,2012,Industry,39.45,280,77,111.21
+Tamil Nadu,2012,Transport,22.18,280,77,111.21
+Tamil Nadu,2012,Agriculture,14.65,280,77,111.21
+Tamil Nadu,2012,Waste,7.4,280,77,111.21
+Tamil Nadu,2013,Energy,75.32,280,77,111.21
+Tamil Nadu,2013,Industry,40.91,280,77,111.21
+Tamil Nadu,2013,Transport,22.87,280,77,111.21
+Tamil Nadu,2013,Agriculture,16.02,280,77,111.21
+Tamil Nadu,2013,Waste,7.63,280,77,111.21
+Tamil Nadu,2014,Energy,79.19,280,77,111.21
+Tamil Nadu,2014,Industry,41.89,280,77,111.21
+Tamil Nadu,2014,Transport,26.07,280,77,111.21
+Tamil Nadu,2014,Agriculture,17.79,280,77,111.21
+Tamil Nadu,2014,Waste,8.33,280,77,111.21
+Tamil Nadu,2015,Energy,77.99,280,77,111.21
+Tamil Nadu,2015,Industry,42.68,280,77,111.21
+Tamil Nadu,2015,Transport,25.54,280,77,111.21
+Tamil Nadu,2015,Agriculture,17.05,280,77,111.21
+Tamil Nadu,2015,Waste,9.01,280,77,111.21
+Tamil Nadu,2016,Energy,82.21,280,77,111.21
+Tamil Nadu,2016,Industry,45.74,280,77,111.21
+Tamil Nadu,2016,Transport,27.01,280,77,111.21
+Tamil Nadu,2016,Agriculture,18.19,280,77,111.21
+Tamil Nadu,2016,Waste,9.14,280,77,111.21
+Tamil Nadu,2017,Energy,86.28,280,77,111.21
+Tamil Nadu,2017,Industry,46.99,280,77,111.21
+Tamil Nadu,2017,Transport,28.78,280,77,111.21
+Tamil Nadu,2017,Agriculture,18.65,280,77,111.21
+Tamil Nadu,2017,Waste,9.3,280,77,111.21
+Tamil Nadu,2018,Energy,88.76,280,77,111.21
+Tamil Nadu,2018,Industry,53.59,280,77,111.21
+Tamil Nadu,2018,Transport,31.01,280,77,111.21
+Tamil Nadu,2018,Agriculture,20.67,280,77,111.21
+Tamil Nadu,2018,Waste,10.01,280,77,111.21
+Tamil Nadu,2019,Energy,93.53,280,77,111.21
+Tamil Nadu,2019,Industry,52.83,280,77,111.21
+Tamil Nadu,2019,Transport,31.88,280,77,111.21
+Tamil Nadu,2019,Agriculture,21.49,280,77,111.21
+Tamil Nadu,2019,Waste,10.25,280,77,111.21
+Tamil Nadu,2020,Energy,86.13,280,77,111.21
+Tamil Nadu,2020,Industry,47.76,280,77,111.21
+Tamil Nadu,2020,Transport,28.88,280,77,111.21
+Tamil Nadu,2020,Agriculture,19.46,280,77,111.21
+Tamil Nadu,2020,Waste,9.86,280,77,111.21
+Tamil Nadu,2021,Energy,98.15,280,77,111.21
+Tamil Nadu,2021,Industry,51.11,280,77,111.21
+Tamil Nadu,2021,Transport,32.92,280,77,111.21
+Tamil Nadu,2021,Agriculture,20.39,280,77,111.21
+Tamil Nadu,2021,Waste,10.24,280,77,111.21
+Tamil Nadu,2022,Energy,100.98,280,77,111.21
+Tamil Nadu,2022,Industry,58.46,280,77,111.21
+Tamil Nadu,2022,Transport,35.1,280,77,111.21
+Tamil Nadu,2022,Agriculture,23.49,280,77,111.21
+Tamil Nadu,2022,Waste,10.76,280,77,111.21
+Tamil Nadu,2023,Energy,112.26,280,77,111.21
+Tamil Nadu,2023,Industry,62.7,280,77,111.21
+Tamil Nadu,2023,Transport,36.99,280,77,111.21
+Tamil Nadu,2023,Agriculture,23.43,280,77,111.21
+Tamil Nadu,2023,Waste,11.76,280,77,111.21
+West Bengal,2005,Energy,39.43,180,100,95.98
+West Bengal,2005,Industry,20.97,180,100,95.98
+West Bengal,2005,Transport,11.99,180,100,95.98
+West Bengal,2005,Agriculture,8.19,180,100,95.98
+West Bengal,2005,Waste,4.08,180,100,95.98
+West Bengal,2006,Energy,40.76,180,100,95.98
+West Bengal,2006,Industry,23.74,180,100,95.98
+West Bengal,2006,Transport,13.03,180,100,95.98
+West Bengal,2006,Agriculture,8.99,180,100,95.98
+West Bengal,2006,Waste,4.72,180,100,95.98
+West Bengal,2007,Energy,43.98,180,100,95.98
+West Bengal,2007,Industry,24.57,180,100,95.98
+West Bengal,2007,Transport,14.88,180,100,95.98
+West Bengal,2007,Agriculture,10.08,180,100,95.98
+West Bengal,2007,Waste,5.1,180,100,95.98
+West Bengal,2008,Energy,47.06,180,100,95.98
+West Bengal,2008,Industry,25.01,180,100,95.98
+West Bengal,2008,Transport,16.43,180,100,95.98
+West Bengal,2008,Agriculture,10.15,180,100,95.98
+West Bengal,2008,Waste,5.27,180,100,95.98
+West Bengal,2009,Energy,51.92,180,100,95.98
+West Bengal,2009,Industry,29.52,180,100,95.98
+West Bengal,2009,Transport,17.68,180,100,95.98
+West Bengal,2009,Agriculture,11.33,180,100,95.98
+West Bengal,2009,Waste,5.75,180,100,95.98
+West Bengal,2010,Energy,50.94,180,100,95.98
+West Bengal,2010,Industry,30.75,180,100,95.98
+West Bengal,2010,Transport,16.93,180,100,95.98
+West Bengal,2010,Agriculture,11.59,180,100,95.98
+West Bengal,2010,Waste,6.14,180,100,95.98
+West Bengal,2011,Energy,55.48,180,100,95.98
+West Bengal,2011,Industry,30.28,180,100,95.98
+West Bengal,2011,Transport,18.09,180,100,95.98
+West Bengal,2011,Agriculture,12.93,180,100,95.98
+West Bengal,2011,Waste,6.07,180,100,95.98
+West Bengal,2012,Energy,62.84,180,100,95.98
+West Bengal,2012,Industry,33.59,180,100,95.98
+West Bengal,2012,Transport,20.46,180,100,95.98
+West Bengal,2012,Agriculture,12.89,180,100,95.98
+West Bengal,2012,Waste,7.01,180,100,95.98
+West Bengal,2013,Energy,60.74,180,100,95.98
+West Bengal,2013,Industry,34.25,180,100,95.98
+West Bengal,2013,Transport,21.54,180,100,95.98
+West Bengal,2013,Agriculture,14.07,180,100,95.98
+West Bengal,2013,Waste,6.99,180,100,95.98
+West Bengal,2014,Energy,66.97,180,100,95.98
+West Bengal,2014,Industry,38.46,180,100,95.98
+West Bengal,2014,Transport,23.04,180,100,95.98
+West Bengal,2014,Agriculture,15.38,180,100,95.98
+West Bengal,2014,Waste,7.89,180,100,95.98
+West Bengal,2015,Energy,68.61,180,100,95.98
+West Bengal,2015,Industry,40.7,180,100,95.98
+West Bengal,2015,Transport,23.98,180,100,95.98
+West Bengal,2015,Agriculture,16.35,180,100,95.98
+West Bengal,2015,Waste,8.12,180,100,95.98
+West Bengal,2016,Energy,75.18,180,100,95.98
+West Bengal,2016,Industry,42.91,180,100,95.98
+West Bengal,2016,Transport,25.14,180,100,95.98
+West Bengal,2016,Agriculture,16.75,180,100,95.98
+West Bengal,2016,Waste,8.04,180,100,95.98
+West Bengal,2017,Energy,76.22,180,100,95.98
+West Bengal,2017,Industry,42.95,180,100,95.98
+West Bengal,2017,Transport,24.48,180,100,95.98
+West Bengal,2017,Agriculture,17.56,180,100,95.98
+West Bengal,2017,Waste,8.89,180,100,95.98
+West Bengal,2018,Energy,82.02,180,100,95.98
+West Bengal,2018,Industry,47.09,180,100,95.98
+West Bengal,2018,Transport,27.52,180,100,95.98
+West Bengal,2018,Agriculture,17.86,180,100,95.98
+West Bengal,2018,Waste,9.29,180,100,95.98
+West Bengal,2019,Energy,83.01,180,100,95.98
+West Bengal,2019,Industry,44.83,180,100,95.98
+West Bengal,2019,Transport,28.74,180,100,95.98
+West Bengal,2019,Agriculture,18.38,180,100,95.98
+West Bengal,2019,Waste,9.47,180,100,95.98
+West Bengal,2020,Energy,78.69,180,100,95.98
+West Bengal,2020,Industry,43.06,180,100,95.98
+West Bengal,2020,Transport,26.6,180,100,95.98
+West Bengal,2020,Agriculture,17.52,180,100,95.98
+West Bengal,2020,Waste,8.82,180,100,95.98
+West Bengal,2021,Energy,83.45,180,100,95.98
+West Bengal,2021,Industry,46.59,180,100,95.98
+West Bengal,2021,Transport,29.38,180,100,95.98
+West Bengal,2021,Agriculture,18.63,180,100,95.98
+West Bengal,2021,Waste,9.4,180,100,95.98
+West Bengal,2022,Energy,90.4,180,100,95.98
+West Bengal,2022,Industry,48.09,180,100,95.98
+West Bengal,2022,Transport,30.81,180,100,95.98
+West Bengal,2022,Agriculture,18.84,180,100,95.98
+West Bengal,2022,Waste,9.6,180,100,95.98
+West Bengal,2023,Energy,97.6,180,100,95.98
+West Bengal,2023,Industry,52.62,180,100,95.98
+West Bengal,2023,Transport,30.96,180,100,95.98
+West Bengal,2023,Agriculture,21.88,180,100,95.98
+West Bengal,2023,Waste,10.23,180,100,95.98
+Karnataka,2005,Energy,33.63,240,68,81.53
+Karnataka,2005,Industry,18.28,240,68,81.53
+Karnataka,2005,Transport,10.97,240,68,81.53
+Karnataka,2005,Agriculture,6.91,240,68,81.53
+Karnataka,2005,Waste,3.47,240,68,81.53
+Karnataka,2006,Energy,36.28,240,68,81.53
+Karnataka,2006,Industry,20.07,240,68,81.53
+Karnataka,2006,Transport,11.61,240,68,81.53
+Karnataka,2006,Agriculture,7.6,240,68,81.53
+Karnataka,2006,Waste,3.77,240,68,81.53
+Karnataka,2007,Energy,38.2,240,68,81.53
+Karnataka,2007,Industry,21.14,240,68,81.53
+Karnataka,2007,Transport,12.58,240,68,81.53
+Karnataka,2007,Agriculture,8.14,240,68,81.53
+Karnataka,2007,Waste,4.31,240,68,81.53
+Karnataka,2008,Energy,39.49,240,68,81.53
+Karnataka,2008,Industry,22.87,240,68,81.53
+Karnataka,2008,Transport,13.14,240,68,81.53
+Karnataka,2008,Agriculture,9.19,240,68,81.53
+Karnataka,2008,Waste,4.63,240,68,81.53
+Karnataka,2009,Energy,42.52,240,68,81.53
+Karnataka,2009,Industry,24.25,240,68,81.53
+Karnataka,2009,Transport,15.1,240,68,81.53
+Karnataka,2009,Agriculture,9.22,240,68,81.53
+Karnataka,2009,Waste,4.77,240,68,81.53
+Karnataka,2010,Energy,47.33,240,68,81.53
+Karnataka,2010,Industry,24.39,240,68,81.53
+Karnataka,2010,Transport,14.6,240,68,81.53
+Karnataka,2010,Agriculture,10.44,240,68,81.53
+Karnataka,2010,Waste,5.23,240,68,81.53
+Karnataka,2011,Energy,46.98,240,68,81.53
+Karnataka,2011,Industry,25.46,240,68,81.53
+Karnataka,2011,Transport,15.92,240,68,81.53
+Karnataka,2011,Agriculture,10.09,240,68,81.53
+Karnataka,2011,Waste,5.19,240,68,81.53
+Karnataka,2012,Energy,54.18,240,68,81.53
+Karnataka,2012,Industry,28.0,240,68,81.53
+Karnataka,2012,Transport,17.41,240,68,81.53
+Karnataka,2012,Agriculture,12.08,240,68,81.53
+Karnataka,2012,Waste,5.75,240,68,81.53
+Karnataka,2013,Energy,54.95,240,68,81.53
+Karnataka,2013,Industry,29.38,240,68,81.53
+Karnataka,2013,Transport,18.43,240,68,81.53
+Karnataka,2013,Agriculture,12.22,240,68,81.53
+Karnataka,2013,Waste,6.11,240,68,81.53
+Karnataka,2014,Energy,58.07,240,68,81.53
+Karnataka,2014,Industry,30.65,240,68,81.53
+Karnataka,2014,Transport,18.45,240,68,81.53
+Karnataka,2014,Agriculture,12.99,240,68,81.53
+Karnataka,2014,Waste,6.56,240,68,81.53
+Karnataka,2015,Energy,62.08,240,68,81.53
+Karnataka,2015,Industry,34.7,240,68,81.53
+Karnataka,2015,Transport,21.02,240,68,81.53
+Karnataka,2015,Agriculture,13.11,240,68,81.53
+Karnataka,2015,Waste,6.83,240,68,81.53
+Karnataka,2016,Energy,61.79,240,68,81.53
+Karnataka,2016,Industry,33.76,240,68,81.53
+Karnataka,2016,Transport,20.65,240,68,81.53
+Karnataka,2016,Agriculture,14.27,240,68,81.53
+Karnataka,2016,Waste,7.07,240,68,81.53
+Karnataka,2017,Energy,65.49,240,68,81.53
+Karnataka,2017,Industry,35.05,240,68,81.53
+Karnataka,2017,Transport,21.51,240,68,81.53
+Karnataka,2017,Agriculture,14.94,240,68,81.53
+Karnataka,2017,Waste,7.36,240,68,81.53
+Karnataka,2018,Energy,72.18,240,68,81.53
+Karnataka,2018,Industry,39.78,240,68,81.53
+Karnataka,2018,Transport,22.62,240,68,81.53
+Karnataka,2018,Agriculture,15.71,240,68,81.53
+Karnataka,2018,Waste,7.62,240,68,81.53
+Karnataka,2019,Energy,70.56,240,68,81.53
+Karnataka,2019,Industry,38.86,240,68,81.53
+Karnataka,2019,Transport,22.79,240,68,81.53
+Karnataka,2019,Agriculture,14.99,240,68,81.53
+Karnataka,2019,Waste,8.19,240,68,81.53
+Karnataka,2020,Energy,65.65,240,68,81.53
+Karnataka,2020,Industry,36.75,240,68,81.53
+Karnataka,2020,Transport,22.46,240,68,81.53
+Karnataka,2020,Agriculture,14.63,240,68,81.53
+Karnataka,2020,Waste,6.97,240,68,81.53
+Karnataka,2021,Energy,70.56,240,68,81.53
+Karnataka,2021,Industry,41.95,240,68,81.53
+Karnataka,2021,Transport,23.8,240,68,81.53
+Karnataka,2021,Agriculture,15.53,240,68,81.53
+Karnataka,2021,Waste,8.02,240,68,81.53
+Karnataka,2022,Energy,73.41,240,68,81.53
+Karnataka,2022,Industry,43.76,240,68,81.53
+Karnataka,2022,Transport,25.46,240,68,81.53
+Karnataka,2022,Agriculture,16.43,240,68,81.53
+Karnataka,2022,Waste,8.19,240,68,81.53
+Karnataka,2023,Energy,80.17,240,68,81.53
+Karnataka,2023,Industry,46.29,240,68,81.53
+Karnataka,2023,Transport,27.07,240,68,81.53
+Karnataka,2023,Agriculture,18.86,240,68,81.53
+Karnataka,2023,Waste,8.78,240,68,81.53
+Andhra Pradesh,2005,Energy,33.82,120,54,82.41
+Andhra Pradesh,2005,Industry,17.37,120,54,82.41
+Andhra Pradesh,2005,Transport,10.47,120,54,82.41
+Andhra Pradesh,2005,Agriculture,7.43,120,54,82.41
+Andhra Pradesh,2005,Waste,3.44,120,54,82.41
+Andhra Pradesh,2006,Energy,35.96,120,54,82.41
+Andhra Pradesh,2006,Industry,18.96,120,54,82.41
+Andhra Pradesh,2006,Transport,11.08,120,54,82.41
+Andhra Pradesh,2006,Agriculture,7.97,120,54,82.41
+Andhra Pradesh,2006,Waste,3.97,120,54,82.41
+Andhra Pradesh,2007,Energy,38.06,120,54,82.41
+Andhra Pradesh,2007,Industry,21.51,120,54,82.41
+Andhra Pradesh,2007,Transport,12.77,120,54,82.41
+Andhra Pradesh,2007,Agriculture,8.57,120,54,82.41
+Andhra Pradesh,2007,Waste,4.33,120,54,82.41
+Andhra Pradesh,2008,Energy,39.84,120,54,82.41
+Andhra Pradesh,2008,Industry,23.02,120,54,82.41
+Andhra Pradesh,2008,Transport,13.41,120,54,82.41
+Andhra Pradesh,2008,Agriculture,8.88,120,54,82.41
+Andhra Pradesh,2008,Waste,4.39,120,54,82.41
+Andhra Pradesh,2009,Energy,41.96,120,54,82.41
+Andhra Pradesh,2009,Industry,23.54,120,54,82.41
+Andhra Pradesh,2009,Transport,14.57,120,54,82.41
+Andhra Pradesh,2009,Agriculture,9.9,120,54,82.41
+Andhra Pradesh,2009,Waste,4.92,120,54,82.41
+Andhra Pradesh,2010,Energy,46.35,120,54,82.41
+Andhra Pradesh,2010,Industry,25.85,120,54,82.41
+Andhra Pradesh,2010,Transport,14.95,120,54,82.41
+Andhra Pradesh,2010,Agriculture,9.74,120,54,82.41
+Andhra Pradesh,2010,Waste,5.08,120,54,82.41
+Andhra Pradesh,2011,Energy,49.52,120,54,82.41
+Andhra Pradesh,2011,Industry,26.87,120,54,82.41
+Andhra Pradesh,2011,Transport,15.87,120,54,82.41
+Andhra Pradesh,2011,Agriculture,10.32,120,54,82.41
+Andhra Pradesh,2011,Waste,5.17,120,54,82.41
+Andhra Pradesh,2012,Energy,50.67,120,54,82.41
+Andhra Pradesh,2012,Industry,27.89,120,54,82.41
+Andhra Pradesh,2012,Transport,16.9,120,54,82.41
+Andhra Pradesh,2012,Agriculture,11.8,120,54,82.41
+Andhra Pradesh,2012,Waste,5.5,120,54,82.41
+Andhra Pradesh,2013,Energy,51.28,120,54,82.41
+Andhra Pradesh,2013,Industry,28.57,120,54,82.41
+Andhra Pradesh,2013,Transport,17.98,120,54,82.41
+Andhra Pradesh,2013,Agriculture,12.36,120,54,82.41
+Andhra Pradesh,2013,Waste,5.72,120,54,82.41
+Andhra Pradesh,2014,Energy,59.89,120,54,82.41
+Andhra Pradesh,2014,Industry,32.66,120,54,82.41
+Andhra Pradesh,2014,Transport,19.43,120,54,82.41
+Andhra Pradesh,2014,Agriculture,12.68,120,54,82.41
+Andhra Pradesh,2014,Waste,6.31,120,54,82.41
+Andhra Pradesh,2015,Energy,58.89,120,54,82.41
+Andhra Pradesh,2015,Industry,34.41,120,54,82.41
+Andhra Pradesh,2015,Transport,20.71,120,54,82.41
+Andhra Pradesh,2015,Agriculture,13.38,120,54,82.41
+Andhra Pradesh,2015,Waste,6.46,120,54,82.41
+Andhra Pradesh,2016,Energy,63.31,120,54,82.41
+Andhra Pradesh,2016,Industry,36.04,120,54,82.41
+Andhra Pradesh,2016,Transport,21.66,120,54,82.41
+Andhra Pradesh,2016,Agriculture,14.35,120,54,82.41
+Andhra Pradesh,2016,Waste,7.29,120,54,82.41
+Andhra Pradesh,2017,Energy,63.45,120,54,82.41
+Andhra Pradesh,2017,Industry,34.76,120,54,82.41
+Andhra Pradesh,2017,Transport,22.86,120,54,82.41
+Andhra Pradesh,2017,Agriculture,14.74,120,54,82.41
+Andhra Pradesh,2017,Waste,7.47,120,54,82.41
+Andhra Pradesh,2018,Energy,70.47,120,54,82.41
+Andhra Pradesh,2018,Industry,39.71,120,54,82.41
+Andhra Pradesh,2018,Transport,23.8,120,54,82.41
+Andhra Pradesh,2018,Agriculture,15.28,120,54,82.41
+Andhra Pradesh,2018,Waste,7.85,120,54,82.41
+Andhra Pradesh,2019,Energy,68.13,120,54,82.41
+Andhra Pradesh,2019,Industry,37.39,120,54,82.41
+Andhra Pradesh,2019,Transport,23.09,120,54,82.41
+Andhra Pradesh,2019,Agriculture,15.63,120,54,82.41
+Andhra Pradesh,2019,Waste,7.81,120,54,82.41
+Andhra Pradesh,2020,Energy,62.57,120,54,82.41
+Andhra Pradesh,2020,Industry,35.66,120,54,82.41
+Andhra Pradesh,2020,Transport,20.99,120,54,82.41
+Andhra Pradesh,2020,Agriculture,14.81,120,54,82.41
+Andhra Pradesh,2020,Waste,7.18,120,54,82.41
+Andhra Pradesh,2021,Energy,70.35,120,54,82.41
+Andhra Pradesh,2021,Industry,41.95,120,54,82.41
+Andhra Pradesh,2021,Transport,24.46,120,54,82.41
+Andhra Pradesh,2021,Agriculture,15.72,120,54,82.41
+Andhra Pradesh,2021,Waste,7.99,120,54,82.41
+Andhra Pradesh,2022,Energy,74.16,120,54,82.41
+Andhra Pradesh,2022,Industry,42.32,120,54,82.41
+Andhra Pradesh,2022,Transport,25.18,120,54,82.41
+Andhra Pradesh,2022,Agriculture,16.64,120,54,82.41
+Andhra Pradesh,2022,Waste,8.68,120,54,82.41
+Andhra Pradesh,2023,Energy,83.73,120,54,82.41
+Andhra Pradesh,2023,Industry,43.94,120,54,82.41
+Andhra Pradesh,2023,Transport,28.35,120,54,82.41
+Andhra Pradesh,2023,Agriculture,18.37,120,54,82.41
+Andhra Pradesh,2023,Waste,8.75,120,54,82.41
+Odisha,2005,Energy,27.22,80,47,69.48
+Odisha,2005,Industry,14.95,80,47,69.48
+Odisha,2005,Transport,8.94,80,47,69.48
+Odisha,2005,Agriculture,5.71,80,47,69.48
+Odisha,2005,Waste,2.88,80,47,69.48
+Odisha,2006,Energy,28.39,80,47,69.48
+Odisha,2006,Industry,16.62,80,47,69.48
+Odisha,2006,Transport,10.02,80,47,69.48
+Odisha,2006,Agriculture,6.59,80,47,69.48
+Odisha,2006,Waste,3.15,80,47,69.48
+Odisha,2007,Energy,31.17,80,47,69.48
+Odisha,2007,Industry,17.57,80,47,69.48
+Odisha,2007,Transport,10.59,80,47,69.48
+Odisha,2007,Agriculture,7.22,80,47,69.48
+Odisha,2007,Waste,3.63,80,47,69.48
+Odisha,2008,Energy,34.41,80,47,69.48
+Odisha,2008,Industry,18.61,80,47,69.48
+Odisha,2008,Transport,11.6,80,47,69.48
+Odisha,2008,Agriculture,7.22,80,47,69.48
+Odisha,2008,Waste,3.68,80,47,69.48
+Odisha,2009,Energy,35.05,80,47,69.48
+Odisha,2009,Industry,20.6,80,47,69.48
+Odisha,2009,Transport,11.71,80,47,69.48
+Odisha,2009,Agriculture,8.01,80,47,69.48
+Odisha,2009,Waste,3.9,80,47,69.48
+Odisha,2010,Energy,37.77,80,47,69.48
+Odisha,2010,Industry,21.65,80,47,69.48
+Odisha,2010,Transport,12.36,80,47,69.48
+Odisha,2010,Agriculture,8.63,80,47,69.48
+Odisha,2010,Waste,4.04,80,47,69.48
+Odisha,2011,Energy,41.24,80,47,69.48
+Odisha,2011,Industry,22.24,80,47,69.48
+Odisha,2011,Transport,13.02,80,47,69.48
+Odisha,2011,Agriculture,8.7,80,47,69.48
+Odisha,2011,Waste,4.41,80,47,69.48
+Odisha,2012,Energy,44.51,80,47,69.48
+Odisha,2012,Industry,23.08,80,47,69.48
+Odisha,2012,Transport,14.74,80,47,69.48
+Odisha,2012,Agriculture,9.55,80,47,69.48
+Odisha,2012,Waste,4.7,80,47,69.48
+Odisha,2013,Energy,42.85,80,47,69.48
+Odisha,2013,Industry,25.82,80,47,69.48
+Odisha,2013,Transport,14.58,80,47,69.48
+Odisha,2013,Agriculture,10.34,80,47,69.48
+Odisha,2013,Waste,4.96,80,47,69.48
+Odisha,2014,Energy,46.36,80,47,69.48
+Odisha,2014,Industry,27.62,80,47,69.48
+Odisha,2014,Transport,15.53,80,47,69.48
+Odisha,2014,Agriculture,11.19,80,47,69.48
+Odisha,2014,Waste,5.39,80,47,69.48
+Odisha,2015,Energy,52.32,80,47,69.48
+Odisha,2015,Industry,28.49,80,47,69.48
+Odisha,2015,Transport,17.43,80,47,69.48
+Odisha,2015,Agriculture,11.69,80,47,69.48
+Odisha,2015,Waste,5.45,80,47,69.48
+Odisha,2016,Energy,53.62,80,47,69.48
+Odisha,2016,Industry,28.73,80,47,69.48
+Odisha,2016,Transport,18.0,80,47,69.48
+Odisha,2016,Agriculture,12.03,80,47,69.48
+Odisha,2016,Waste,5.78,80,47,69.48
+Odisha,2017,Energy,55.24,80,47,69.48
+Odisha,2017,Industry,30.86,80,47,69.48
+Odisha,2017,Transport,19.03,80,47,69.48
+Odisha,2017,Agriculture,12.47,80,47,69.48
+Odisha,2017,Waste,6.23,80,47,69.48
+Odisha,2018,Energy,59.63,80,47,69.48
+Odisha,2018,Industry,31.45,80,47,69.48
+Odisha,2018,Transport,18.92,80,47,69.48
+Odisha,2018,Agriculture,13.07,80,47,69.48
+Odisha,2018,Waste,6.3,80,47,69.48
+Odisha,2019,Energy,58.73,80,47,69.48
+Odisha,2019,Industry,32.2,80,47,69.48
+Odisha,2019,Transport,20.37,80,47,69.48
+Odisha,2019,Agriculture,13.56,80,47,69.48
+Odisha,2019,Waste,6.23,80,47,69.48
+Odisha,2020,Energy,55.59,80,47,69.48
+Odisha,2020,Industry,30.37,80,47,69.48
+Odisha,2020,Transport,18.46,80,47,69.48
+Odisha,2020,Agriculture,12.49,80,47,69.48
+Odisha,2020,Waste,5.93,80,47,69.48
+Odisha,2021,Energy,58.15,80,47,69.48
+Odisha,2021,Industry,34.69,80,47,69.48
+Odisha,2021,Transport,19.12,80,47,69.48
+Odisha,2021,Agriculture,13.69,80,47,69.48
+Odisha,2021,Waste,6.7,80,47,69.48
+Odisha,2022,Energy,62.02,80,47,69.48
+Odisha,2022,Industry,35.92,80,47,69.48
+Odisha,2022,Transport,21.54,80,47,69.48
+Odisha,2022,Agriculture,14.79,80,47,69.48
+Odisha,2022,Waste,7.28,80,47,69.48
+Odisha,2023,Energy,70.24,80,47,69.48
+Odisha,2023,Industry,39.23,80,47,69.48
+Odisha,2023,Transport,22.28,80,47,69.48
+Odisha,2023,Agriculture,15.2,80,47,69.48
+Odisha,2023,Waste,7.45,80,47,69.48
+Punjab,2005,Energy,22.27,85,30,55.15
+Punjab,2005,Industry,12.37,85,30,55.15
+Punjab,2005,Transport,7.04,85,30,55.15
+Punjab,2005,Agriculture,4.89,85,30,55.15
+Punjab,2005,Waste,2.36,85,30,55.15
+Punjab,2006,Energy,22.34,85,30,55.15
+Punjab,2006,Industry,12.39,85,30,55.15
+Punjab,2006,Transport,7.67,85,30,55.15
+Punjab,2006,Agriculture,5.14,85,30,55.15
+Punjab,2006,Waste,2.71,85,30,55.15
+Punjab,2007,Energy,25.82,85,30,55.15
+Punjab,2007,Industry,14.37,85,30,55.15
+Punjab,2007,Transport,8.06,85,30,55.15
+Punjab,2007,Agriculture,5.35,85,30,55.15
+Punjab,2007,Waste,2.91,85,30,55.15
+Punjab,2008,Energy,28.02,85,30,55.15
+Punjab,2008,Industry,14.75,85,30,55.15
+Punjab,2008,Transport,8.9,85,30,55.15
+Punjab,2008,Agriculture,5.78,85,30,55.15
+Punjab,2008,Waste,3.12,85,30,55.15
+Punjab,2009,Energy,29.34,85,30,55.15
+Punjab,2009,Industry,16.03,85,30,55.15
+Punjab,2009,Transport,10.02,85,30,55.15
+Punjab,2009,Agriculture,6.45,85,30,55.15
+Punjab,2009,Waste,3.13,85,30,55.15
+Punjab,2010,Energy,29.31,85,30,55.15
+Punjab,2010,Industry,17.49,85,30,55.15
+Punjab,2010,Transport,9.9,85,30,55.15
+Punjab,2010,Agriculture,6.94,85,30,55.15
+Punjab,2010,Waste,3.51,85,30,55.15
+Punjab,2011,Energy,32.07,85,30,55.15
+Punjab,2011,Industry,17.67,85,30,55.15
+Punjab,2011,Transport,10.18,85,30,55.15
+Punjab,2011,Agriculture,7.11,85,30,55.15
+Punjab,2011,Waste,3.41,85,30,55.15
+Punjab,2012,Energy,35.56,85,30,55.15
+Punjab,2012,Industry,19.5,85,30,55.15
+Punjab,2012,Transport,11.41,85,30,55.15
+Punjab,2012,Agriculture,7.62,85,30,55.15
+Punjab,2012,Waste,3.89,85,30,55.15
+Punjab,2013,Energy,35.09,85,30,55.15
+Punjab,2013,Industry,19.69,85,30,55.15
+Punjab,2013,Transport,11.76,85,30,55.15
+Punjab,2013,Agriculture,7.61,85,30,55.15
+Punjab,2013,Waste,4.01,85,30,55.15
+Punjab,2014,Energy,39.45,85,30,55.15
+Punjab,2014,Industry,20.79,85,30,55.15
+Punjab,2014,Transport,12.99,85,30,55.15
+Punjab,2014,Agriculture,9.0,85,30,55.15
+Punjab,2014,Waste,4.44,85,30,55.15
+Punjab,2015,Energy,38.93,85,30,55.15
+Punjab,2015,Industry,23.12,85,30,55.15
+Punjab,2015,Transport,13.98,85,30,55.15
+Punjab,2015,Agriculture,9.11,85,30,55.15
+Punjab,2015,Waste,4.43,85,30,55.15
+Punjab,2016,Energy,41.17,85,30,55.15
+Punjab,2016,Industry,23.01,85,30,55.15
+Punjab,2016,Transport,14.63,85,30,55.15
+Punjab,2016,Agriculture,9.09,85,30,55.15
+Punjab,2016,Waste,4.54,85,30,55.15
+Punjab,2017,Energy,44.38,85,30,55.15
+Punjab,2017,Industry,23.87,85,30,55.15
+Punjab,2017,Transport,14.57,85,30,55.15
+Punjab,2017,Agriculture,9.93,85,30,55.15
+Punjab,2017,Waste,4.8,85,30,55.15
+Punjab,2018,Energy,48.84,85,30,55.15
+Punjab,2018,Industry,24.66,85,30,55.15
+Punjab,2018,Transport,15.74,85,30,55.15
+Punjab,2018,Agriculture,10.65,85,30,55.15
+Punjab,2018,Waste,5.28,85,30,55.15
+Punjab,2019,Energy,49.26,85,30,55.15
+Punjab,2019,Industry,27.25,85,30,55.15
+Punjab,2019,Transport,14.97,85,30,55.15
+Punjab,2019,Agriculture,10.59,85,30,55.15
+Punjab,2019,Waste,5.13,85,30,55.15
+Punjab,2020,Energy,41.87,85,30,55.15
+Punjab,2020,Industry,23.53,85,30,55.15
+Punjab,2020,Transport,14.39,85,30,55.15
+Punjab,2020,Agriculture,9.92,85,30,55.15
+Punjab,2020,Waste,4.83,85,30,55.15
+Punjab,2021,Energy,48.08,85,30,55.15
+Punjab,2021,Industry,26.19,85,30,55.15
+Punjab,2021,Transport,16.42,85,30,55.15
+Punjab,2021,Agriculture,10.85,85,30,55.15
+Punjab,2021,Waste,5.43,85,30,55.15
+Punjab,2022,Energy,48.51,85,30,55.15
+Punjab,2022,Industry,28.0,85,30,55.15
+Punjab,2022,Transport,17.67,85,30,55.15
+Punjab,2022,Agriculture,10.89,85,30,55.15
+Punjab,2022,Waste,5.62,85,30,55.15
+Punjab,2023,Energy,56.12,85,30,55.15
+Punjab,2023,Industry,30.37,85,30,55.15
+Punjab,2023,Transport,17.49,85,30,55.15
+Punjab,2023,Agriculture,12.52,85,30,55.15
+Punjab,2023,Waste,6.05,85,30,55.15
+Haryana,2005,Energy,20.59,110,29,55.13
+Haryana,2005,Industry,11.55,110,29,55.13
+Haryana,2005,Transport,7.22,110,29,55.13
+Haryana,2005,Agriculture,4.83,110,29,55.13
+Haryana,2005,Waste,2.48,110,29,55.13
+Haryana,2006,Energy,23.65,110,29,55.13
+Haryana,2006,Industry,13.24,110,29,55.13
+Haryana,2006,Transport,7.59,110,29,55.13
+Haryana,2006,Agriculture,5.05,110,29,55.13
+Haryana,2006,Waste,2.55,110,29,55.13
+Haryana,2007,Energy,25.9,110,29,55.13
+Haryana,2007,Industry,14.13,110,29,55.13
+Haryana,2007,Transport,8.6,110,29,55.13
+Haryana,2007,Agriculture,5.57,110,29,55.13
+Haryana,2007,Waste,2.75,110,29,55.13
+Haryana,2008,Energy,26.92,110,29,55.13
+Haryana,2008,Industry,14.84,110,29,55.13
+Haryana,2008,Transport,8.55,110,29,55.13
+Haryana,2008,Agriculture,5.91,110,29,55.13
+Haryana,2008,Waste,3.02,110,29,55.13
+Haryana,2009,Energy,27.7,110,29,55.13
+Haryana,2009,Industry,16.58,110,29,55.13
+Haryana,2009,Transport,9.22,110,29,55.13
+Haryana,2009,Agriculture,6.29,110,29,55.13
+Haryana,2009,Waste,3.38,110,29,55.13
+Haryana,2010,Energy,28.86,110,29,55.13
+Haryana,2010,Industry,16.58,110,29,55.13
+Haryana,2010,Transport,9.61,110,29,55.13
+Haryana,2010,Agriculture,6.64,110,29,55.13
+Haryana,2010,Waste,3.41,110,29,55.13
+Haryana,2011,Energy,31.6,110,29,55.13
+Haryana,2011,Industry,18.31,110,29,55.13
+Haryana,2011,Transport,10.65,110,29,55.13
+Haryana,2011,Agriculture,7.23,110,29,55.13
+Haryana,2011,Waste,3.69,110,29,55.13
+Haryana,2012,Energy,33.65,110,29,55.13
+Haryana,2012,Industry,19.83,110,29,55.13
+Haryana,2012,Transport,11.2,110,29,55.13
+Haryana,2012,Agriculture,7.81,110,29,55.13
+Haryana,2012,Waste,3.74,110,29,55.13
+Haryana,2013,Energy,34.8,110,29,55.13
+Haryana,2013,Industry,20.84,110,29,55.13
+Haryana,2013,Transport,11.61,110,29,55.13
+Haryana,2013,Agriculture,7.81,110,29,55.13
+Haryana,2013,Waste,3.82,110,29,55.13
+Haryana,2014,Energy,37.17,110,29,55.13
+Haryana,2014,Industry,21.83,110,29,55.13
+Haryana,2014,Transport,12.94,110,29,55.13
+Haryana,2014,Agriculture,8.3,110,29,55.13
+Haryana,2014,Waste,4.31,110,29,55.13
+Haryana,2015,Energy,41.54,110,29,55.13
+Haryana,2015,Industry,22.56,110,29,55.13
+Haryana,2015,Transport,13.39,110,29,55.13
+Haryana,2015,Agriculture,9.25,110,29,55.13
+Haryana,2015,Waste,4.49,110,29,55.13
+Haryana,2016,Energy,42.1,110,29,55.13
+Haryana,2016,Industry,24.2,110,29,55.13
+Haryana,2016,Transport,14.45,110,29,55.13
+Haryana,2016,Agriculture,9.46,110,29,55.13
+Haryana,2016,Waste,4.81,110,29,55.13
+Haryana,2017,Energy,43.35,110,29,55.13
+Haryana,2017,Industry,23.7,110,29,55.13
+Haryana,2017,Transport,15.2,110,29,55.13
+Haryana,2017,Agriculture,9.83,110,29,55.13
+Haryana,2017,Waste,4.62,110,29,55.13
+Haryana,2018,Energy,47.41,110,29,55.13
+Haryana,2018,Industry,24.79,110,29,55.13
+Haryana,2018,Transport,15.6,110,29,55.13
+Haryana,2018,Agriculture,10.01,110,29,55.13
+Haryana,2018,Waste,5.12,110,29,55.13
+Haryana,2019,Energy,46.3,110,29,55.13
+Haryana,2019,Industry,25.04,110,29,55.13
+Haryana,2019,Transport,14.9,110,29,55.13
+Haryana,2019,Agriculture,10.82,110,29,55.13
+Haryana,2019,Waste,5.13,110,29,55.13
+Haryana,2020,Energy,43.52,110,29,55.13
+Haryana,2020,Industry,23.09,110,29,55.13
+Haryana,2020,Transport,14.69,110,29,55.13
+Haryana,2020,Agriculture,9.58,110,29,55.13
+Haryana,2020,Waste,4.61,110,29,55.13
+Haryana,2021,Energy,46.59,110,29,55.13
+Haryana,2021,Industry,25.91,110,29,55.13
+Haryana,2021,Transport,16.44,110,29,55.13
+Haryana,2021,Agriculture,11.22,110,29,55.13
+Haryana,2021,Waste,5.18,110,29,55.13
+Haryana,2022,Energy,49.76,110,29,55.13
+Haryana,2022,Industry,29.59,110,29,55.13
+Haryana,2022,Transport,16.44,110,29,55.13
+Haryana,2022,Agriculture,11.35,110,29,55.13
+Haryana,2022,Waste,5.83,110,29,55.13
+Haryana,2023,Energy,55.06,110,29,55.13
+Haryana,2023,Industry,29.95,110,29,55.13
+Haryana,2023,Transport,18.52,110,29,55.13
+Haryana,2023,Agriculture,12.72,110,29,55.13
+Haryana,2023,Waste,6.27,110,29,55.13
+Bihar,2005,Energy,27.75,90,128,67.03
+Bihar,2005,Industry,14.76,90,128,67.03
+Bihar,2005,Transport,8.89,90,128,67.03
+Bihar,2005,Agriculture,6.24,90,128,67.03
+Bihar,2005,Waste,2.87,90,128,67.03
+Bihar,2006,Energy,28.39,90,128,67.03
+Bihar,2006,Industry,15.74,90,128,67.03
+Bihar,2006,Transport,10.15,90,128,67.03
+Bihar,2006,Agriculture,6.37,90,128,67.03
+Bihar,2006,Waste,3.22,90,128,67.03
+Bihar,2007,Energy,32.22,90,128,67.03
+Bihar,2007,Industry,17.95,90,128,67.03
+Bihar,2007,Transport,10.92,90,128,67.03
+Bihar,2007,Agriculture,7.31,90,128,67.03
+Bihar,2007,Waste,3.39,90,128,67.03
+Bihar,2008,Energy,32.34,90,128,67.03
+Bihar,2008,Industry,18.5,90,128,67.03
+Bihar,2008,Transport,11.13,90,128,67.03
+Bihar,2008,Agriculture,7.5,90,128,67.03
+Bihar,2008,Waste,3.84,90,128,67.03
+Bihar,2009,Energy,36.49,90,128,67.03
+Bihar,2009,Industry,20.61,90,128,67.03
+Bihar,2009,Transport,12.1,90,128,67.03
+Bihar,2009,Agriculture,8.33,90,128,67.03
+Bihar,2009,Waste,3.84,90,128,67.03
+Bihar,2010,Energy,37.71,90,128,67.03
+Bihar,2010,Industry,20.23,90,128,67.03
+Bihar,2010,Transport,13.04,90,128,67.03
+Bihar,2010,Agriculture,8.24,90,128,67.03
+Bihar,2010,Waste,4.26,90,128,67.03
+Bihar,2011,Energy,39.85,90,128,67.03
+Bihar,2011,Industry,22.53,90,128,67.03
+Bihar,2011,Transport,13.09,90,128,67.03
+Bihar,2011,Agriculture,9.19,90,128,67.03
+Bihar,2011,Waste,4.35,90,128,67.03
+Bihar,2012,Energy,45.01,90,128,67.03
+Bihar,2012,Industry,24.68,90,128,67.03
+Bihar,2012,Transport,13.75,90,128,67.03
+Bihar,2012,Agriculture,9.49,90,128,67.03
+Bihar,2012,Waste,5.0,90,128,67.03
+Bihar,2013,Energy,44.37,90,128,67.03
+Bihar,2013,Industry,24.57,90,128,67.03
+Bihar,2013,Transport,15.01,90,128,67.03
+Bihar,2013,Agriculture,10.29,90,128,67.03
+Bihar,2013,Waste,4.9,90,128,67.03
+Bihar,2014,Energy,47.8,90,128,67.03
+Bihar,2014,Industry,27.76,90,128,67.03
+Bihar,2014,Transport,15.34,90,128,67.03
+Bihar,2014,Agriculture,10.64,90,128,67.03
+Bihar,2014,Waste,5.55,90,128,67.03
+Bihar,2015,Energy,52.52,90,128,67.03
+Bihar,2015,Industry,28.12,90,128,67.03
+Bihar,2015,Transport,17.24,90,128,67.03
+Bihar,2015,Agriculture,11.33,90,128,67.03
+Bihar,2015,Waste,5.79,90,128,67.03
+Bihar,2016,Energy,54.65,90,128,67.03
+Bihar,2016,Industry,30.82,90,128,67.03
+Bihar,2016,Transport,18.37,90,128,67.03
+Bihar,2016,Agriculture,12.2,90,128,67.03
+Bihar,2016,Waste,5.76,90,128,67.03
+Bihar,2017,Energy,55.48,90,128,67.03
+Bihar,2017,Industry,29.97,90,128,67.03
+Bihar,2017,Transport,18.81,90,128,67.03
+Bihar,2017,Agriculture,12.27,90,128,67.03
+Bihar,2017,Waste,5.98,90,128,67.03
+Bihar,2018,Energy,57.29,90,128,67.03
+Bihar,2018,Industry,33.82,90,128,67.03
+Bihar,2018,Transport,18.98,90,128,67.03
+Bihar,2018,Agriculture,12.63,90,128,67.03
+Bihar,2018,Waste,6.56,90,128,67.03
+Bihar,2019,Energy,60.28,90,128,67.03
+Bihar,2019,Industry,32.53,90,128,67.03
+Bihar,2019,Transport,19.42,90,128,67.03
+Bihar,2019,Agriculture,13.35,90,128,67.03
+Bihar,2019,Waste,6.79,90,128,67.03
+Bihar,2020,Energy,52.95,90,128,67.03
+Bihar,2020,Industry,30.94,90,128,67.03
+Bihar,2020,Transport,18.86,90,128,67.03
+Bihar,2020,Agriculture,12.02,90,128,67.03
+Bihar,2020,Waste,5.87,90,128,67.03
+Bihar,2021,Energy,59.92,90,128,67.03
+Bihar,2021,Industry,34.63,90,128,67.03
+Bihar,2021,Transport,20.13,90,128,67.03
+Bihar,2021,Agriculture,13.67,90,128,67.03
+Bihar,2021,Waste,6.96,90,128,67.03
+Bihar,2022,Energy,64.08,90,128,67.03
+Bihar,2022,Industry,36.73,90,128,67.03
+Bihar,2022,Transport,20.8,90,128,67.03
+Bihar,2022,Agriculture,13.57,90,128,67.03
+Bihar,2022,Waste,7.14,90,128,67.03
+Bihar,2023,Energy,65.74,90,128,67.03
+Bihar,2023,Industry,36.81,90,128,67.03
+Bihar,2023,Transport,23.7,90,128,67.03
+Bihar,2023,Agriculture,14.79,90,128,67.03
+Bihar,2023,Waste,7.91,90,128,67.03
+Jharkhand,2005,Energy,20.71,60,40,55.62
+Jharkhand,2005,Industry,11.5,60,40,55.62
+Jharkhand,2005,Transport,7.42,60,40,55.62
+Jharkhand,2005,Agriculture,4.8,60,40,55.62
+Jharkhand,2005,Waste,2.48,60,40,55.62
+Jharkhand,2006,Energy,22.33,60,40,55.62
+Jharkhand,2006,Industry,13.22,60,40,55.62
+Jharkhand,2006,Transport,8.02,60,40,55.62
+Jharkhand,2006,Agriculture,5.31,60,40,55.62
+Jharkhand,2006,Waste,2.56,60,40,55.62
+Jharkhand,2007,Energy,25.94,60,40,55.62
+Jharkhand,2007,Industry,14.27,60,40,55.62
+Jharkhand,2007,Transport,8.76,60,40,55.62
+Jharkhand,2007,Agriculture,5.76,60,40,55.62
+Jharkhand,2007,Waste,2.88,60,40,55.62
+Jharkhand,2008,Energy,26.32,60,40,55.62
+Jharkhand,2008,Industry,15.21,60,40,55.62
+Jharkhand,2008,Transport,8.73,60,40,55.62
+Jharkhand,2008,Agriculture,6.11,60,40,55.62
+Jharkhand,2008,Waste,2.94,60,40,55.62
+Jharkhand,2009,Energy,27.77,60,40,55.62
+Jharkhand,2009,Industry,15.45,60,40,55.62
+Jharkhand,2009,Transport,9.32,60,40,55.62
+Jharkhand,2009,Agriculture,6.33,60,40,55.62
+Jharkhand,2009,Waste,3.14,60,40,55.62
+Jharkhand,2010,Energy,29.51,60,40,55.62
+Jharkhand,2010,Industry,17.15,60,40,55.62
+Jharkhand,2010,Transport,9.83,60,40,55.62
+Jharkhand,2010,Agriculture,6.43,60,40,55.62
+Jharkhand,2010,Waste,3.45,60,40,55.62
+Jharkhand,2011,Energy,32.77,60,40,55.62
+Jharkhand,2011,Industry,16.79,60,40,55.62
+Jharkhand,2011,Transport,10.79,60,40,55.62
+Jharkhand,2011,Agriculture,7.0,60,40,55.62
+Jharkhand,2011,Waste,3.57,60,40,55.62
+Jharkhand,2012,Energy,35.96,60,40,55.62
+Jharkhand,2012,Industry,20.1,60,40,55.62
+Jharkhand,2012,Transport,12.07,60,40,55.62
+Jharkhand,2012,Agriculture,7.82,60,40,55.62
+Jharkhand,2012,Waste,3.79,60,40,55.62
+Jharkhand,2013,Energy,36.41,60,40,55.62
+Jharkhand,2013,Industry,20.78,60,40,55.62
+Jharkhand,2013,Transport,11.44,60,40,55.62
+Jharkhand,2013,Agriculture,7.91,60,40,55.62
+Jharkhand,2013,Waste,3.9,60,40,55.62
+Jharkhand,2014,Energy,36.86,60,40,55.62
+Jharkhand,2014,Industry,21.48,60,40,55.62
+Jharkhand,2014,Transport,12.55,60,40,55.62
+Jharkhand,2014,Agriculture,8.3,60,40,55.62
+Jharkhand,2014,Waste,4.38,60,40,55.62
+Jharkhand,2015,Energy,39.0,60,40,55.62
+Jharkhand,2015,Industry,22.4,60,40,55.62
+Jharkhand,2015,Transport,13.52,60,40,55.62
+Jharkhand,2015,Agriculture,8.69,60,40,55.62
+Jharkhand,2015,Waste,4.47,60,40,55.62
+Jharkhand,2016,Energy,41.63,60,40,55.62
+Jharkhand,2016,Industry,24.05,60,40,55.62
+Jharkhand,2016,Transport,13.51,60,40,55.62
+Jharkhand,2016,Agriculture,9.84,60,40,55.62
+Jharkhand,2016,Waste,4.62,60,40,55.62
+Jharkhand,2017,Energy,43.08,60,40,55.62
+Jharkhand,2017,Industry,24.85,60,40,55.62
+Jharkhand,2017,Transport,15.09,60,40,55.62
+Jharkhand,2017,Agriculture,10.14,60,40,55.62
+Jharkhand,2017,Waste,4.92,60,40,55.62
+Jharkhand,2018,Energy,45.07,60,40,55.62
+Jharkhand,2018,Industry,26.59,60,40,55.62
+Jharkhand,2018,Transport,15.49,60,40,55.62
+Jharkhand,2018,Agriculture,10.74,60,40,55.62
+Jharkhand,2018,Waste,5.11,60,40,55.62
+Jharkhand,2019,Energy,48.51,60,40,55.62
+Jharkhand,2019,Industry,25.45,60,40,55.62
+Jharkhand,2019,Transport,15.61,60,40,55.62
+Jharkhand,2019,Agriculture,10.25,60,40,55.62
+Jharkhand,2019,Waste,5.45,60,40,55.62
+Jharkhand,2020,Energy,44.44,60,40,55.62
+Jharkhand,2020,Industry,24.17,60,40,55.62
+Jharkhand,2020,Transport,15.06,60,40,55.62
+Jharkhand,2020,Agriculture,9.48,60,40,55.62
+Jharkhand,2020,Waste,4.67,60,40,55.62
+Jharkhand,2021,Energy,49.2,60,40,55.62
+Jharkhand,2021,Industry,26.74,60,40,55.62
+Jharkhand,2021,Transport,15.32,60,40,55.62
+Jharkhand,2021,Agriculture,11.02,60,40,55.62
+Jharkhand,2021,Waste,5.2,60,40,55.62
+Jharkhand,2022,Energy,51.37,60,40,55.62
+Jharkhand,2022,Industry,27.83,60,40,55.62
+Jharkhand,2022,Transport,17.7,60,40,55.62
+Jharkhand,2022,Agriculture,11.01,60,40,55.62
+Jharkhand,2022,Waste,5.47,60,40,55.62
+Jharkhand,2023,Energy,55.95,60,40,55.62
+Jharkhand,2023,Industry,31.3,60,40,55.62
+Jharkhand,2023,Transport,17.83,60,40,55.62
+Jharkhand,2023,Agriculture,12.3,60,40,55.62
+Jharkhand,2023,Waste,6.22,60,40,55.62
+Chhattisgarh,2005,Energy,22.08,55,30,54.4
+Chhattisgarh,2005,Industry,11.44,55,30,54.4
+Chhattisgarh,2005,Transport,7.28,55,30,54.4
+Chhattisgarh,2005,Agriculture,4.62,55,30,54.4
+Chhattisgarh,2005,Waste,2.37,55,30,54.4
+Chhattisgarh,2006,Energy,24.03,55,30,54.4
+Chhattisgarh,2006,Industry,12.98,55,30,54.4
+Chhattisgarh,2006,Transport,7.96,55,30,54.4
+Chhattisgarh,2006,Agriculture,5.1,55,30,54.4
+Chhattisgarh,2006,Waste,2.54,55,30,54.4
+Chhattisgarh,2007,Energy,25.32,55,30,54.4
+Chhattisgarh,2007,Industry,14.39,55,30,54.4
+Chhattisgarh,2007,Transport,8.17,55,30,54.4
+Chhattisgarh,2007,Agriculture,5.78,55,30,54.4
+Chhattisgarh,2007,Waste,2.8,55,30,54.4
+Chhattisgarh,2008,Energy,28.02,55,30,54.4
+Chhattisgarh,2008,Industry,14.65,55,30,54.4
+Chhattisgarh,2008,Transport,8.57,55,30,54.4
+Chhattisgarh,2008,Agriculture,6.18,55,30,54.4
+Chhattisgarh,2008,Waste,3.09,55,30,54.4
+Chhattisgarh,2009,Energy,29.64,55,30,54.4
+Chhattisgarh,2009,Industry,16.48,55,30,54.4
+Chhattisgarh,2009,Transport,9.98,55,30,54.4
+Chhattisgarh,2009,Agriculture,6.38,55,30,54.4
+Chhattisgarh,2009,Waste,3.26,55,30,54.4
+Chhattisgarh,2010,Energy,29.86,55,30,54.4
+Chhattisgarh,2010,Industry,17.49,55,30,54.4
+Chhattisgarh,2010,Transport,10.27,55,30,54.4
+Chhattisgarh,2010,Agriculture,7.01,55,30,54.4
+Chhattisgarh,2010,Waste,3.4,55,30,54.4
+Chhattisgarh,2011,Energy,32.66,55,30,54.4
+Chhattisgarh,2011,Industry,16.98,55,30,54.4
+Chhattisgarh,2011,Transport,10.37,55,30,54.4
+Chhattisgarh,2011,Agriculture,6.72,55,30,54.4
+Chhattisgarh,2011,Waste,3.5,55,30,54.4
+Chhattisgarh,2012,Energy,35.25,55,30,54.4
+Chhattisgarh,2012,Industry,19.39,55,30,54.4
+Chhattisgarh,2012,Transport,11.66,55,30,54.4
+Chhattisgarh,2012,Agriculture,7.63,55,30,54.4
+Chhattisgarh,2012,Waste,3.72,55,30,54.4
+Chhattisgarh,2013,Energy,35.2,55,30,54.4
+Chhattisgarh,2013,Industry,20.44,55,30,54.4
+Chhattisgarh,2013,Transport,11.82,55,30,54.4
+Chhattisgarh,2013,Agriculture,7.74,55,30,54.4
+Chhattisgarh,2013,Waste,3.82,55,30,54.4
+Chhattisgarh,2014,Energy,36.85,55,30,54.4
+Chhattisgarh,2014,Industry,21.47,55,30,54.4
+Chhattisgarh,2014,Transport,12.58,55,30,54.4
+Chhattisgarh,2014,Agriculture,8.9,55,30,54.4
+Chhattisgarh,2014,Waste,4.31,55,30,54.4
+Chhattisgarh,2015,Energy,41.17,55,30,54.4
+Chhattisgarh,2015,Industry,23.04,55,30,54.4
+Chhattisgarh,2015,Transport,13.47,55,30,54.4
+Chhattisgarh,2015,Agriculture,8.89,55,30,54.4
+Chhattisgarh,2015,Waste,4.49,55,30,54.4
+Chhattisgarh,2016,Energy,42.76,55,30,54.4
+Chhattisgarh,2016,Industry,24.69,55,30,54.4
+Chhattisgarh,2016,Transport,14.18,55,30,54.4
+Chhattisgarh,2016,Agriculture,9.65,55,30,54.4
+Chhattisgarh,2016,Waste,4.51,55,30,54.4
+Chhattisgarh,2017,Energy,43.09,55,30,54.4
+Chhattisgarh,2017,Industry,24.87,55,30,54.4
+Chhattisgarh,2017,Transport,13.91,55,30,54.4
+Chhattisgarh,2017,Agriculture,9.56,55,30,54.4
+Chhattisgarh,2017,Waste,5.06,55,30,54.4
+Chhattisgarh,2018,Energy,46.97,55,30,54.4
+Chhattisgarh,2018,Industry,26.51,55,30,54.4
+Chhattisgarh,2018,Transport,15.97,55,30,54.4
+Chhattisgarh,2018,Agriculture,10.83,55,30,54.4
+Chhattisgarh,2018,Waste,5.02,55,30,54.4
+Chhattisgarh,2019,Energy,46.58,55,30,54.4
+Chhattisgarh,2019,Industry,26.22,55,30,54.4
+Chhattisgarh,2019,Transport,16.43,55,30,54.4
+Chhattisgarh,2019,Agriculture,10.6,55,30,54.4
+Chhattisgarh,2019,Waste,5.03,55,30,54.4
+Chhattisgarh,2020,Energy,43.94,55,30,54.4
+Chhattisgarh,2020,Industry,25.07,55,30,54.4
+Chhattisgarh,2020,Transport,13.95,55,30,54.4
+Chhattisgarh,2020,Agriculture,9.86,55,30,54.4
+Chhattisgarh,2020,Waste,5.02,55,30,54.4
+Chhattisgarh,2021,Energy,45.99,55,30,54.4
+Chhattisgarh,2021,Industry,27.0,55,30,54.4
+Chhattisgarh,2021,Transport,15.51,55,30,54.4
+Chhattisgarh,2021,Agriculture,10.21,55,30,54.4
+Chhattisgarh,2021,Waste,5.24,55,30,54.4
+Chhattisgarh,2022,Energy,50.19,55,30,54.4
+Chhattisgarh,2022,Industry,28.06,55,30,54.4
+Chhattisgarh,2022,Transport,17.47,55,30,54.4
+Chhattisgarh,2022,Agriculture,11.14,55,30,54.4
+Chhattisgarh,2022,Waste,5.49,55,30,54.4
+Chhattisgarh,2023,Energy,53.14,55,30,54.4
+Chhattisgarh,2023,Industry,31.04,55,30,54.4
+Chhattisgarh,2023,Transport,17.73,55,30,54.4
+Chhattisgarh,2023,Agriculture,12.66,55,30,54.4
+Chhattisgarh,2023,Waste,6.32,55,30,54.4
